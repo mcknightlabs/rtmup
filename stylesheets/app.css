@@ -952,19 +952,19 @@ article h1, article.b h1 {
 article h2, article.b h2 {
   font-size: 1.5rem;
   font-weight: 800;
-  margin: 3.5rem auto 1rem auto;
+  margin: 3.5rem 0.9375rem 1rem 0.9375rem;
 }
 /* line 29, ../scss/_article.scss */
 article h3, article.b h3 {
   font-size: 1.25rem;
   font-weight: bold;
-  margin: 2rem auto 0 auto;
   letter-spacing: 1px;
+  margin: 2rem 0.9375rem 0 0.9375rem;
 }
 /* line 35, ../scss/_article.scss */
 article h4, article.b h4 {
   font-size: 1rem;
-  margin: 1.5rem auto 0 auto;
+  margin: 1.5rem 0.9375rem 0 0.9375rem;
   color: #44464f;
   font-weight: 600;
 }
