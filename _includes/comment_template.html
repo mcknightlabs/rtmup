@@ -26,9 +26,9 @@
 	<p style="font-style: italic">
 		All comments are held for moderation; basic HTML formatting accepted.
 	</p>
-	<form id="commentform" method="POST" action="{{site.baseurl}}static-comments/commentsubmit.php">
+	<form id="commentform" method="POST" action="{{site.url}}/static-comments/commentsubmit.php">
 		<input type="hidden" name="post_id" value="{{page.id}}" />
-		<input type="hidden" name="return_url" value="{{site.baseurl}}{{page.url}}" />
+		<input type="hidden" name="return_url" value="{{site.url}}/{{page.url}}" />
 		<table>
 			<tr>
 				<th>Name:</th>
