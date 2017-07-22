@@ -1,0 +1,7 @@
+markdown: kramdown 
+baseurl: /
+exclude: ["scss", "Gemfile","Gemfile.lock", "README.md","config.rb"]
+disqus_short_name: "rtmup"
+name: rtmup
+description: Ryan McKnight's thoughts on tech and innovation
+url: http://rtmup.com

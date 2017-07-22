@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+<section class="article-section">
+	<div class="header-wrapper">
+		<hr>
+		<h2>Blog</h2>
+	</div>
+	<ul class="article-list">
+		{% for blog in site.categories.blog limit:2 %}
+		<li>
+			<h3><a href="{{ blog.url }}">{{ blog.title }}</a></h3>
+			<p class="description">{{ blog.description }}</p>
+			<p class="meta">Posted: {{ blog.date | date: '%B %d, %Y' }}
+			{% for tag in blog.tags %}
+			{% capture tag_name %}{{ tag }}{% endcapture %}
+			<span class="topics">•
+				<a href="/tags/{{ tag_name }}">
+				{{ tag_name }}
+				</a>
+			</span>
+			{% endfor %}
+			</p>
+		</li>
+		{% endfor %}
+	</ul>
+	<a href="{{ site.baseurl }}blog.html" class="view-all">View all</a>
+</section>
+
+<section class="article-section">
+	<div class="header-wrapper">
+		<hr>
+		<h2>Tech &amp; Design portfolio</h2>
+	</div>
+	<ul class="article-list">
+		{% for tech in site.categories.tech limit:2 %}
+		<li>
+			{% if tech.external_url %}
+			<h3><a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.baseurl }}media/img/external-link-icon.png"></a></h3>
+			{% else %}
+			<h3><a href="{{ tech.url }}">{{ tech.title }}</a></h3>
+			{% endif %}
+			<p class="description">{{ tech.description }}</p>
+			<p class="meta">Posted: {{ tech.date | date: '%B %d, %Y' }}
+			{% for tag in tech.tags %}
+			{% capture tag_name %}{{ tag }}{% endcapture %}
+			<span class="topics">•
+				<a href="/tags/{{ tag_name }}">
+				{{ tag_name }}
+				</a>
+			</span>
+			{% endfor %}
+			</p>
+		</li>
+		{% endfor %}
+	</ul>
+	<a href="{{ site.baseurl }}portfolio.html" class="view-all">View all</a>
+</section>
+
+<section class="article-section">
+	<div class="header-wrapper">
+		<hr>
+		<h2>Photos and video</h2>
+	</div>
+	<ul class="article-list">
+		{% for photos in site.categories.photos limit:5 %}
+		<li>
+			{% if photos.external_url %}
+		 	<h3><a href="{{ photos.external_url }}">{{ photos.title }}&nbsp;<img src="{{ site.baseurl }}media/img/external-link-icon.png"></a>
+			{% else %}
+			<a href="{{ photos.url }}">{{ photos.title }}</a>
+			{% endif %}</h3>
+			<p class="description">{{ photos.description }}</p>
+			<p class="meta">
+			{% for tag in photos.tags %}
+			{% capture tag_name %}{{ tag }}{% endcapture %}
+			<span class="topics">•
+				<a href="/tags/{{ tag_name }}">
+				{{ tag_name }}
+				</a>
+			</span>
+			{% endfor %}
+			</p>
+		</li>
+		{% endfor %}
+	</ul>
+</section>

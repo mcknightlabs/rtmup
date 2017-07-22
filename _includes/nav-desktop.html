@@ -1,0 +1,14 @@
+<nav class="top-nav-desktop">
+	<a href="{{ site.baseurl }}index.html" class="{% if page.url == '/index.html' %}current{% endif %}"><span class="site-logo site-logo-inside">RM</span></a>
+	<ul class="nav">
+		<li>
+			<a href="{{ site.baseurl }}blog.html" class="{% if page.url == '/blog.html' %}current{% endif %}">Blog</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}portfolio.html" class="{% if page.url == '/portfolio.html' %}current{% endif %}">Portfolio</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}about.html" class="{% if page.url == '/about.html' %}current{% endif %}">About</a>
+		</li>
+	</ul>
+</nav>

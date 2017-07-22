@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section class="article-section">
+	<div class="header-wrapper">
+		<hr>
+		<h2>Tech &amp; Design portfolio</h2>
+	</div>
+	<ul class="article-list">
+		{% for tech in site.categories.tech %}
+		<li>
+			{% if tech.external_url %}
+			<h3><a href="{{ tech.external_url }}">{{ tech.title }}</a>&nbsp;<img src="{{ site.baseurl }}media/img/external-link-icon.png"></h3>
+			{% else %}
+			<h3><a href="{{ tech.url }}">{{ tech.title }}</a></h3>
+			{% endif %}
+			<p class="description">{{ tech.description }}</p>
+			<p class="meta">Posted: {{ tech.date | date: '%B %d, %Y' }}
+			{% if tech.topics %}
+			<span class="topics">| {{ tech.topics }}</span></p>
+			{% endif %}
+		</li>
+		{% endfor %}
+	</ul>
+	<a href="{{ site.baseurl }}index.html" class="view-all">Back to home</a>
+</section>
+
+

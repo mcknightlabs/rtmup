@@ -1,0 +1,94 @@
+body {
+	font-family: Open Sans, Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	overflow-y: scroll;
+}
+h1, h2, h3, h4, h5 {
+	color: #191b22;
+	font-weight: 600;
+}
+p, li {
+	color: #44464f;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.6;
+}
+p {
+	margin-bottom: 1.5rem;
+}
+li {
+	margin-bottom: .5rem;
+}
+img {
+	max-width: 100%;
+}
+a {
+	color: #4682B4;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+iframe {
+	display: block;
+	height: 350px;
+	margin: 0 auto;
+}
+main {
+    clear: both;
+    overflow:auto;
+    padding-bottom: 90px; /* must be same height as the footer */
+    margin: 0 auto;
+}
+
+
+// dividers
+.small-divider {
+	display: block;
+	margin: .5rem auto 0rem auto;
+	width: 10%;
+}
+.diamond-divider {
+	display: block;
+	margin: 30px auto;
+	text-align: center;
+}
+hr.style-eight { /* Glyph, by Harry Roberts */
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    margin: 40px 0 60px 0;
+    padding: 0;
+    text-align: center;
+    &:after {
+    	background: #FFF;
+    	content: "§";
+	    display: inline-block;
+	    font-size: 1.5em;
+	    padding: 0 0.25em;
+	    position: relative; 
+	    top: -0.7em;  
+    }   
+}
+
+.comments {
+	max-width: 45rem;
+    width: 100%;
+    margin: 0 auto 3rem auto;
+}
+
+// image styling
+.img-border {
+	border: solid 1px #ccc;
+}
+
+// medium screen size up
+@media (min-width: 600px ) {
+	.hide-on-desktop {
+		display: none;
+	}
+	.small-divider {
+		margin-bottom: 3rem;
+	}
+}
