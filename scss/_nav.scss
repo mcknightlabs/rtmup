@@ -33,7 +33,7 @@ header {
 			margin: 0;
 			text-align: center;
 			.menu-link {
-				border-bottom: solid 1px #393e4e;
+				border-bottom: solid 1px #4682B4;
 				text-decoration: none;
 				display: block;
 				color: #fff;
@@ -59,13 +59,14 @@ header {
 	font-weight: 400;
 	font-size: .875rem;
 	font-family: Montserrat;
-	border: solid 1px #44464f;
+	border: solid 1px #4682B4;
 	border-radius: 50%;
 	line-height: 1.5;
 	padding: .5rem;
-	color: #44464f;
+	color: #4682B4;
 	&:hover {
-		background: #44464f;
+		background: #4682B4;
+		border: solid 1px #4682B4;
 		color: #fff;
 	}
 }
@@ -134,7 +135,7 @@ header {
 				a {
 					font-size: 1rem;
 					padding: 0;
-					color: #44464f;
+					color: #4682B4;
 					text-decoration: none;
 					text-transform: uppercase;
 					&:hover {
@@ -146,11 +147,11 @@ header {
 	}
 	.site-logo {
 		float: none;
-		color: #44464f;
+		color: #4682B4;
 		&:hover {
-			background: #44464f;
+			background: #4682B4;
 			color: #fff;
-			border: solid 1px #44464f;
+			border: solid 1px #4682B4;
 		}
 	}
 	.site-logo-inside {
