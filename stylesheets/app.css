@@ -1152,31 +1152,31 @@ article .meta, article.b .meta {
 footer {
   max-width: 45rem;
   width: 100%;
-  margin: 0 auto;
+  margin: 0 0.9375rem;
   padding-top: 1rem;
 }
-/* line 7, ../scss/_footer.scss */
+/* line 8, ../scss/_footer.scss */
 footer p {
   font-size: 14px;
 }
 
-/* line 13, ../scss/_footer.scss */
+/* line 14, ../scss/_footer.scss */
 * {
   margin: 0;
   padding: 0;
 }
 
-/* line 16, ../scss/_footer.scss */
+/* line 17, ../scss/_footer.scss */
 html, body {
   height: 100%;
 }
 
-/* line 19, ../scss/_footer.scss */
+/* line 20, ../scss/_footer.scss */
 #wrap {
   min-height: 100%;
 }
 
-/* line 21, ../scss/_footer.scss */
+/* line 22, ../scss/_footer.scss */
 #footer {
   clear: both;
   height: 90px;
@@ -1186,7 +1186,7 @@ html, body {
 }
 
 /*Opera Fix thanks to Maleika (Kohoutec)*/
-/* line 28, ../scss/_footer.scss */
+/* line 29, ../scss/_footer.scss */
 body:before {
   content: "";
   float: left;
@@ -1196,12 +1196,18 @@ body:before {
   width: 0;
 }
 
-/* line 36, ../scss/_footer.scss */
+/* line 37, ../scss/_footer.scss */
 .full-width {
   width: 100%;
   max-width: none;
 }
 
+@media (min-width: 600px) {
+  /* line 44, ../scss/_footer.scss */
+  footer {
+    margin: 0 auto;
+  }
+}
 /* line 2, ../scss/_comments.scss */
 #comments table {
   background: none;
