@@ -1145,27 +1145,6 @@ article .meta, article.b .meta {
     font-size: 1.125rem;
   }
 }
-/* line 2, ../scss/_comments.scss */
-#comments table {
-  background: none;
-  border: none;
-  font-family: sans-serif;
-}
-/* line 6, ../scss/_comments.scss */
-#comments table th {
-  font-size: 18px;
-}
-/* line 10, ../scss/_comments.scss */
-#comments .submit {
-  background: #D62828;
-  padding: 14px;
-  border: 0;
-  color: #FFF;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  font-family: sans-serif;
-}
-
 /* line 2, ../scss/_footer.scss */
 footer {
   max-width: 45rem;
@@ -1220,42 +1199,64 @@ body:before {
   max-width: none;
 }
 
+/* line 2, ../scss/_comments.scss */
+#comments table {
+  background: none;
+  border: none;
+  font-family: sans-serif;
+}
+/* line 6, ../scss/_comments.scss */
+#comments table th {
+  font-size: 18px;
+}
+/* line 10, ../scss/_comments.scss */
+#comments .submit {
+  background: #D62828;
+  padding: 14px;
+  border: 0;
+  color: #FFF;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
 /* line 2, ../scss/_mailchimp.scss */
 #mc_embed_signup {
+  margin: 0 auto 3rem auto;
   max-width: 45rem;
   width: 100%;
-  margin: 0 auto 3rem auto;
 }
 /* line 6, ../scss/_mailchimp.scss */
 #mc_embed_signup.signupbox {
+  box-sizing: border-box;
   margin-top: 2rem;
   background: #F4F5F7;
   padding: 2rem;
 }
-/* line 11, ../scss/_mailchimp.scss */
+/* line 12, ../scss/_mailchimp.scss */
 #mc_embed_signup input.email {
   width: 100% !important;
 }
-/* line 14, ../scss/_mailchimp.scss */
+/* line 15, ../scss/_mailchimp.scss */
 #mc_embed_signup input.button {
   width: 100% !important;
   background-color: #788293;
 }
-/* line 17, ../scss/_mailchimp.scss */
+/* line 18, ../scss/_mailchimp.scss */
 #mc_embed_signup input.button:hover {
   background-color: #6c7584;
 }
-/* line 21, ../scss/_mailchimp.scss */
+/* line 22, ../scss/_mailchimp.scss */
 #mc_embed_signup form.mcform {
   padding: 0;
 }
 
 @media (min-width: 600px) {
-  /* line 30, ../scss/_mailchimp.scss */
+  /* line 31, ../scss/_mailchimp.scss */
   #mc_embed_signup input.email {
     width: 50% !important;
   }
-  /* line 33, ../scss/_mailchimp.scss */
+  /* line 34, ../scss/_mailchimp.scss */
   #mc_embed_signup input.button {
     width: 50% !important;
   }
