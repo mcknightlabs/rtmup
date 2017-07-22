@@ -2,8 +2,8 @@ article {
 	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption {
 	    margin: 0 0.9375rem;
 	}
-	ul {
-		margin-left: 1.1rem;
+	ul, ol {
+		margin-left: 2.1rem;
 	}
 }
 article.b {
@@ -165,7 +165,7 @@ article, article.b {
 		    width: 100%;
 		    margin: 0 auto 1.5rem auto;
 		}
-		ul {
+		ul, ol {
 			max-width: 42.5rem;
 		}
 	}
@@ -189,6 +189,9 @@ article, article.b {
 		.drop-cap {
 			font-size: 3rem;
 			padding: 1rem 2rem;
+		}
+		blockquote {
+			box-sizing: border-box;
 		}
 	}
 	p, li {

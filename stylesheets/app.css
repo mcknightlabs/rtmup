@@ -925,8 +925,8 @@ article p, article ul, article ol, article h1, article h2, article h3, article h
   margin: 0 0.9375rem;
 }
 /* line 5, ../scss/_article.scss */
-article ul {
-  margin-left: 1.1rem;
+article ul, article ol {
+  margin-left: 2.1rem;
 }
 
 /* line 9, ../scss/_article.scss */
@@ -1109,7 +1109,7 @@ article .meta, article.b .meta {
     margin: 0 auto 1.5rem auto;
   }
   /* line 168, ../scss/_article.scss */
-  article ul {
+  article ul, article ol {
     max-width: 42.5rem;
   }
 
@@ -1138,8 +1138,12 @@ article .meta, article.b .meta {
     font-size: 3rem;
     padding: 1rem 2rem;
   }
+  /* line 193, ../scss/_article.scss */
+  article blockquote, article.b blockquote {
+    box-sizing: border-box;
+  }
 
-  /* line 194, ../scss/_article.scss */
+  /* line 197, ../scss/_article.scss */
   p, li {
     font-size: 1.125rem;
   }
