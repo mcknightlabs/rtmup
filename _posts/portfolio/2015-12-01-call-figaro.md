@@ -1,6 +1,6 @@
 ---
 title: Callfigaro website
-description: Designed and coded custom Wordpress theme and admin pages
+description: Designed and coded static site
 category: tech
 external_url: http://callfigaro.com/
 topics: Front-end design
