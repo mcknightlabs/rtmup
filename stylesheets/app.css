@@ -921,7 +921,7 @@ header {
   }
 }
 /* line 2, ../scss/_article.scss */
-article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article .embed-container {
+article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article .embed-container, article blockquote, article figcaption {
   padding: 0 0.9375rem;
 }
 /* line 5, ../scss/_article.scss */
@@ -1103,7 +1103,7 @@ article .meta, article.b .meta {
   }
 
   /* line 163, ../scss/_article.scss */
-  article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article .embed-container, article iframe {
+  article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article .embed-container, article iframe, article blockquote {
     max-width: 45rem;
     width: 100%;
     margin: 0 auto 1.5rem auto;
