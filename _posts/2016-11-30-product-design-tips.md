@@ -4,8 +4,8 @@ title: 5 Product Design Tips
 description:
 category: blog
 tags: 
-- management
 - tech
+- design
 ---
 
 <h3>1. Focus on UX before UI.</h3>

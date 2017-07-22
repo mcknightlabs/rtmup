@@ -4,7 +4,7 @@ title: Kathmandu Valley
 description:
 category: blog
 tags: 
-- self-mastery
+- photography
 ---
 
 <div class="row">
