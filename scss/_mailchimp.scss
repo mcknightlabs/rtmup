@@ -1,9 +1,10 @@
 // mailchimp overrride
 #mc_embed_signup  {
+	margin: 0 auto 3rem auto;
 	max-width: 45rem;
     width: 100%;
-    margin: 0 auto 3rem auto;
 	&.signupbox {
+		box-sizing: border-box;
 		margin-top: 2rem;
 		background: #F4F5F7;
 		padding: 2rem;
@@ -13,9 +14,9 @@
 	}
 	input.button {
 		width: 100% !important;
-		background-color: #788293; 
+		background-color: #4682B4; 
 		&:hover {
-			background-color: #6c7584;
+			background-color: #4682B4
 		}
 	}
 	form.mcform {

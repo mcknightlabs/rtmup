@@ -1249,11 +1249,11 @@ body:before {
 /* line 15, ../scss/_mailchimp.scss */
 #mc_embed_signup input.button {
   width: 100% !important;
-  background-color: #788293;
+  background-color: #4682B4;
 }
 /* line 18, ../scss/_mailchimp.scss */
 #mc_embed_signup input.button:hover {
-  background-color: #6c7584;
+  background-color: #4682B4;
 }
 /* line 22, ../scss/_mailchimp.scss */
 #mc_embed_signup form.mcform {
