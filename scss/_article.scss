@@ -1,9 +1,17 @@
 article {
-	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption {
+	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption, table {
 	    padding: 0 0.9375rem;
 	}
 	ul, ol {
 		margin-left: 1.5rem;
+	}
+	th, td {
+		text-align: left;
+		padding: 1rem .5rem;
+	}
+	.table-striped>tbody>tr:nth-child(odd)>td, 
+	.table-striped>tbody>tr:nth-child(odd)>th {
+		background-color: #f6f7f8; 
 	}
 }
 article.b {
@@ -156,7 +164,10 @@ article, article.b {
 	    margin: 0 auto 3rem auto;
 	}
 	article {
-		p, ul, ol, h1, h2, h3, h4, h5, .embed-container, iframe, blockquote, figcaption {
+		p, ul, ol, h1, h2, h3, h4, h5, .embed-container, iframe, figcaption, table {
+		    padding: 0;
+		}
+		p, ul, ol, h1, h2, h3, h4, h5, .embed-container, iframe, blockquote, figcaption, table {
 			max-width: 45rem;
 		    width: 100%;
 		    margin: 0 auto 1.5rem auto;
