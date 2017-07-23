@@ -1,7 +1,6 @@
+name: rtmup
+description: Notes on self-mastery and leadership
 markdown: kramdown 
 exclude: ["scss", "Gemfile","Gemfile.lock", "README.md","config.rb"]
 disqus_short_name: "rtmup"
-name: rtmup
-description: Ryan McKnight's thoughts on tech and innovation
-baseurl: /
 url: http://rtmup.com
