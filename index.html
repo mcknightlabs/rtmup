@@ -25,7 +25,7 @@ layout: default
 		</li>
 		{% endfor %}
 	</ul>
-	<a href="{{ site.github.url }}blog.html" class="view-all">View all</a>
+	<a href="{{ site.github.url }}/blog.html" class="view-all">View all</a>
 </section>
 
 <section class="article-section">
@@ -38,7 +38,7 @@ layout: default
 		<li>
 			<h3>
 			{% if tech.external_url %}
-				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.github.url }}media/img/external-link-icon.png"></a>
+				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
 			{% else %}
 				<a href="{{ tech.url }}">{{ tech.title }}</a>
 			{% endif %}
@@ -57,7 +57,7 @@ layout: default
 		</li>
 		{% endfor %}
 	</ul>
-	<a href="{{ site.github.url }}portfolio.html" class="view-all">View all</a>
+	<a href="{{ site.github.url }}/portfolio.html" class="view-all">View all</a>
 </section>
 
 <section class="article-section">
@@ -70,7 +70,7 @@ layout: default
 		<li>
 		 	<h3>
 		 		{% if photos.external_url %}
-		 			<a href="{{ photos.external_url }}">{{ photos.title }}&nbsp;<img src="{{ site.github.url }}media/img/external-link-icon.png"></a>
+		 			<a href="{{ photos.external_url }}">{{ photos.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
 				{% else %}
 				<a href="{{ photos.url }}">{{ photos.title }}</a>
 				{% endif %}

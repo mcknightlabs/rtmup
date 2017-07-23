@@ -4,18 +4,18 @@
 		<meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>{{ page.title }}</title>
-        <link rel="stylesheet" href="{{ site.github.url }}stylesheets/app.css" />
+        <link rel="stylesheet" href="{{ site.github.url }}/stylesheets/app.css" />
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300' rel='stylesheet' type='text/css'>
-        <script src="{{ site.github.url }}js/classie.js"></script>
+        <script src="{{ site.github.url }}/js/classie.js"></script>
 		<link rel="alternate" type="application/rss+xml" title="RTMUP RSS" href="http://rtmup.com/feed.xml" />
 	</head>
 	
 	<body class="top-nav-push">
 		<div class="menu-wrapper hide-on-desktop">
-			<a href="{{ site.github.url }}index.html" class="{% if page.url == '/index.html' %}current{% endif %}"><span class="site-logo site-logo-outside">RM</span></a>
+			<a href="{{ site.github.url }}/index.html" class="{% if page.url == '/index.html' %}current{% endif %}"><span class="site-logo site-logo-outside">RM</span></a>
 			{% include nav-mobile.html navclass='nav-top' %}
-			<a id="showTopPush" class="main-menu-btn">Menu <img src="{{ site.github.url }}media/img/menu-icon.png" width="25" height="14" class="hamburger-icon"></a>
+			<a id="showTopPush" class="main-menu-btn">Menu <img src="{{ site.github.url }}/media/img/menu-icon.png" width="25" height="14" class="hamburger-icon"></a>
 		</div>
 		<header class="header">
 			{% include nav-desktop.html navclass='nav-top' %}
