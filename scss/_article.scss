@@ -67,6 +67,9 @@ article, article.b {
 	figure {
 		max-width: 100%;
 		margin: 0 0 2.5rem 0 !important;
+		&.graphic {
+			max-width: 720px;
+		}
 		figcaption {
 			margin-top: .5rem;
 			font-size: .875rem;
