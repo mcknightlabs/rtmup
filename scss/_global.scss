@@ -71,7 +71,11 @@ hr.style-eight { /* Glyph, by Harry Roberts */
 	    top: -0.7em;  
     }   
 }
-
+.byline {
+	display: block;
+	text-align:center;
+	margin-bottom: 2rem;
+}
 .comments {
 	max-width: 45rem;
     width: 100%;
