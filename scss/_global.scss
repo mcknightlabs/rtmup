@@ -76,6 +76,8 @@ hr.style-eight { /* Glyph, by Harry Roberts */
 	max-width: 45rem;
     width: 100%;
     margin: 0 auto 3rem auto;
+    padding: 0 1rem 1rem 1rem;
+    box-sizing: border-box;
 }
 
 // image styling
@@ -90,5 +92,8 @@ hr.style-eight { /* Glyph, by Harry Roberts */
 	}
 	.small-divider {
 		margin-bottom: 3rem;
+	}
+	.comments {
+		padding: 0;
 	}
 }

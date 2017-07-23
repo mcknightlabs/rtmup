@@ -579,22 +579,29 @@ hr.style-eight:after {
   max-width: 45rem;
   width: 100%;
   margin: 0 auto 3rem auto;
+  padding: 0 1rem 1rem 1rem;
+  box-sizing: border-box;
 }
 
-/* line 82, ../scss/_global.scss */
+/* line 84, ../scss/_global.scss */
 .img-border {
   border: solid 1px #ccc;
 }
 
 @media (min-width: 600px) {
-  /* line 88, ../scss/_global.scss */
+  /* line 90, ../scss/_global.scss */
   .hide-on-desktop {
     display: none;
   }
 
-  /* line 91, ../scss/_global.scss */
+  /* line 93, ../scss/_global.scss */
   .small-divider {
     margin-bottom: 3rem;
+  }
+
+  /* line 96, ../scss/_global.scss */
+  .comments {
+    padding: 0;
   }
 }
 /* line 2, ../scss/_nav.scss */
