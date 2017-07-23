@@ -1,9 +1,9 @@
 article {
 	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption {
-	    margin: 0 0.9375rem;
+	    padding: 0 0.9375rem;
 	}
 	ul, ol {
-		margin-left: 2.1rem;
+		margin-left: 1.5rem;
 	}
 }
 article.b {
@@ -24,17 +24,17 @@ article, article.b {
 	h2 {
 		font-size: 1.5rem;
 		font-weight: 800;
-		margin: 3.5rem 0.9375rem 1rem 0.9375rem;
+		margin: 3.5rem 0 1rem 0;
 	}
 	h3 {
 		font-size: 1.25rem;
 		font-weight: bold;
 		letter-spacing: 1px;
-		margin: 2rem 0.9375rem 0 0.9375rem;
+		margin: 2rem 0;
 	}
 	h4 {
 		font-size: 1rem;
-		margin: 1.5rem 0.9375rem 0 0.9375rem;
+		margin: 1.5rem 0 0 0;
 		color: #44464f;
 		font-weight: 600;
 	}
@@ -159,7 +159,7 @@ article, article.b {
 	    margin: 0 auto 3rem auto;
 	}
 	article {
-		p, ul, ol, h1, h2, h3, h4, h5, .embed-container, iframe, blockquote {
+		p, ul, ol, h1, h2, h3, h4, h5, .embed-container, iframe, blockquote, figcaption {
 			max-width: 45rem;
 		    width: 100%;
 		    margin: 0 auto 1.5rem auto;
