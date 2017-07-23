@@ -10,11 +10,13 @@ layout: default
 	<ul class="article-list">
 		{% for tech in site.categories.tech %}
 		<li>
+			<h3>
 			{% if tech.external_url %}
-			<h3><a href="{{ tech.external_url }}">{{ tech.title }}</a>&nbsp;<img src="{{ site.baseurl }}media/img/external-link-icon.png"></h3>
+				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.baseurl }}media/img/external-link-icon.png"></a>
 			{% else %}
-			<h3><a href="{{ tech.url }}">{{ tech.title }}</a></h3>
+				<a href="{{ tech.url }}">{{ tech.title }}</a>
 			{% endif %}
+			</h3>
 			<p class="description">{{ tech.description }}</p>
 			<p class="meta">Posted: {{ tech.date | date: '%B %d, %Y' }}
 			{% if tech.topics %}
