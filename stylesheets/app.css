@@ -946,15 +946,19 @@ article p, article ul, article ol, article h1, article h2, article h3, article h
   padding: 0 0.9375rem;
 }
 /* line 5, ../scss/_article.scss */
+article .embed-container, article iframe {
+  margin: 0 auto 2rem auto;
+}
+/* line 8, ../scss/_article.scss */
 article ul, article ol {
   margin-left: 1.5rem;
 }
-/* line 8, ../scss/_article.scss */
+/* line 11, ../scss/_article.scss */
 article th, article td {
   text-align: left;
   padding: 1rem 0;
 }
-/* line 12, ../scss/_article.scss */
+/* line 15, ../scss/_article.scss */
 article table {
   font-size: .875rem;
   width: 100%;
@@ -962,7 +966,7 @@ article table {
   /* Scrollbar is displayed as it's needed */
   word-wrap: break-word;
 }
-/* line 17, ../scss/_article.scss */
+/* line 20, ../scss/_article.scss */
 article table caption {
   background: #000;
   color: #fff;
@@ -971,7 +975,7 @@ article table caption {
   text-align: center;
   text-transform: uppercase;
 }
-/* line 24, ../scss/_article.scss */
+/* line 27, ../scss/_article.scss */
 article table caption .details {
   text-transform: none;
   margin-top: .5rem;
@@ -979,23 +983,23 @@ article table caption .details {
   font-size: .875rem;
   font-weight: 100;
 }
-/* line 33, ../scss/_article.scss */
+/* line 36, ../scss/_article.scss */
 article .table-striped > tbody > tr:nth-child(odd) > td,
 article .table-striped > tbody > tr:nth-child(odd) > th {
   background-color: #f6f7f8;
 }
 
-/* line 38, ../scss/_article.scss */
+/* line 41, ../scss/_article.scss */
 article.b {
   padding: 0 0.9375rem;
 }
 
-/* line 41, ../scss/_article.scss */
+/* line 44, ../scss/_article.scss */
 article, article.b {
   padding-bottom: 4rem;
   /* headings */
 }
-/* line 45, ../scss/_article.scss */
+/* line 48, ../scss/_article.scss */
 article h1, article.b h1 {
   font-size: 1.675rem;
   line-height: 1.2;
@@ -1004,27 +1008,27 @@ article h1, article.b h1 {
   margin-bottom: 1rem;
   text-align: center;
 }
-/* line 53, ../scss/_article.scss */
+/* line 56, ../scss/_article.scss */
 article h2, article.b h2 {
   font-size: 1.5rem;
   font-weight: 800;
   margin: 3.5rem 0 1rem 0;
 }
-/* line 58, ../scss/_article.scss */
+/* line 61, ../scss/_article.scss */
 article h3, article.b h3 {
   font-size: 1.25rem;
   font-weight: bold;
   letter-spacing: 1px;
   margin: 2rem 0;
 }
-/* line 64, ../scss/_article.scss */
+/* line 67, ../scss/_article.scss */
 article h4, article.b h4 {
   font-size: 1rem;
   margin: 1.5rem 0 0 0;
   color: #44464f;
   font-weight: 600;
 }
-/* line 70, ../scss/_article.scss */
+/* line 73, ../scss/_article.scss */
 article hr, article.b hr {
   border: solid #DDDDDD;
   border-width: 1px 0 0;
@@ -1033,52 +1037,52 @@ article hr, article.b hr {
   margin: 0 auto 2rem auto;
   width: 10%;
 }
-/* line 80, ../scss/_article.scss */
+/* line 83, ../scss/_article.scss */
 article .image-credit, article.b .image-credit {
   color: #999;
   font-size: 12px;
   display: block;
 }
-/* line 85, ../scss/_article.scss */
+/* line 88, ../scss/_article.scss */
 article figure.graph, article.b figure.graph {
   max-width: 70%;
   margin: 30px auto;
 }
-/* line 89, ../scss/_article.scss */
+/* line 92, ../scss/_article.scss */
 article figure, article.b figure {
   max-width: 100%;
   margin: 0 auto 2.5rem auto !important;
 }
-/* line 92, ../scss/_article.scss */
+/* line 95, ../scss/_article.scss */
 article figure.graphic, article.b figure.graphic {
   max-width: 720px;
 }
-/* line 95, ../scss/_article.scss */
+/* line 98, ../scss/_article.scss */
 article figure figcaption, article.b figure figcaption {
   margin-top: .5rem;
   font-size: .875rem;
   color: #717584;
 }
-/* line 100, ../scss/_article.scss */
+/* line 103, ../scss/_article.scss */
 article figure img, article.b figure img {
   display: block;
   margin: 0 auto;
 }
-/* line 104, ../scss/_article.scss */
+/* line 107, ../scss/_article.scss */
 article figure.photo, article.b figure.photo {
   margin: 40px 0;
 }
-/* line 105, ../scss/_article.scss */
+/* line 108, ../scss/_article.scss */
 article figure.photo:first-of-type, article.b figure.photo:first-of-type {
   margin: 0 0 40px 0;
 }
-/* line 110, ../scss/_article.scss */
+/* line 113, ../scss/_article.scss */
 article figure iframe, article.b figure iframe {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
 }
-/* line 117, ../scss/_article.scss */
+/* line 120, ../scss/_article.scss */
 article .drop-cap, article.b .drop-cap {
   font-size: 2.5rem;
   float: left;
@@ -1088,7 +1092,7 @@ article .drop-cap, article.b .drop-cap {
   border: solid 1px #ccc;
   background: #F4F5F7;
 }
-/* line 127, ../scss/_article.scss */
+/* line 130, ../scss/_article.scss */
 article blockquote, article.b blockquote {
   font-size: 1rem;
   line-height: 1.375;
@@ -1097,70 +1101,66 @@ article blockquote, article.b blockquote {
   border-left: solid 20px #4682B4;
   margin: 30px 0;
 }
-/* line 134, ../scss/_article.scss */
+/* line 137, ../scss/_article.scss */
 article blockquote p, article.b blockquote p {
   font-size: 1rem;
 }
-/* line 137, ../scss/_article.scss */
+/* line 140, ../scss/_article.scss */
 article blockquote citation, article.b blockquote citation {
   display: block;
   margin-top: 10px;
   font-weight: bold;
   font-size: .875rem;
 }
-/* line 143, ../scss/_article.scss */
+/* line 146, ../scss/_article.scss */
 article blockquote p, article blockquote citation, article blockquote citation a, article blockquote li, article.b blockquote p, article.b blockquote citation, article.b blockquote citation a, article.b blockquote li {
   letter-spacing: 1px;
 }
-/* line 148, ../scss/_article.scss */
+/* line 151, ../scss/_article.scss */
 article .note, article.b .note {
   color: #747680;
   font-size: 1rem;
 }
-/* line 153, ../scss/_article.scss */
+/* line 156, ../scss/_article.scss */
 article .listen-while-you-read, article.b .listen-while-you-read {
   margin: 10px 0 50px 0;
 }
-/* line 155, ../scss/_article.scss */
+/* line 158, ../scss/_article.scss */
 article .listen-while-you-read p, article.b .listen-while-you-read p {
   font-size: 16px;
 }
-/* line 161, ../scss/_article.scss */
+/* line 164, ../scss/_article.scss */
 article .logline, article.b .logline {
   margin-top: 20px;
   padding-bottom: 20px;
   border-bottom: solid 1px #CCC;
 }
-/* line 165, ../scss/_article.scss */
+/* line 168, ../scss/_article.scss */
 article .logline::last-child, article.b .logline::last-child {
   border-bottom: none;
 }
-/* line 168, ../scss/_article.scss */
+/* line 171, ../scss/_article.scss */
 article .logline h3, article.b .logline h3 {
   margin: 0;
 }
-/* line 171, ../scss/_article.scss */
+/* line 174, ../scss/_article.scss */
 article .logline p, article.b .logline p {
   margin: 0;
 }
-/* line 175, ../scss/_article.scss */
+/* line 178, ../scss/_article.scss */
 article .meta, article.b .meta {
   font-size: 1rem;
   margin: 0;
 }
 
 @media (min-width: 600px) {
-  /* line 183, ../scss/_article.scss */
+  /* line 186, ../scss/_article.scss */
   article.b {
     max-width: 45rem;
     width: 100%;
     margin: 0 auto 3rem auto;
   }
 
-  /* line 189, ../scss/_article.scss */
-  article .embed-container, article iframe {
-    margin: 0 auto 2rem auto;
-  }
   /* line 192, ../scss/_article.scss */
   article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article figcaption, article table {
     padding: 0;

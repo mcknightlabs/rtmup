@@ -2,6 +2,9 @@ article {
 	p, ul, ol, h1, h2, h3, h4, h5, blockquote, figcaption {
 	    padding: 0 0.9375rem;
 	}
+	.embed-container, iframe {
+		margin: 0 auto 2rem auto;
+	}
 	ul, ol {
 		margin-left: 1.5rem;
 	}
@@ -186,9 +189,6 @@ article, article.b {
 	    margin: 0 auto 3rem auto;
 	}
 	article {
-		.embed-container, iframe {
-			margin: 0 auto 2rem auto;
-		}
 		p, ul, ol, h1, h2, h3, h4, h5, figcaption, table {
 		    padding: 0;
 		}
