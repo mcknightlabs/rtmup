@@ -14,11 +14,17 @@ tags:
 
 <p><a href="http://www.nytimes.com/2010/03/18/fashion/18FITNESS.html">Hit</a> after <a href="https://www.nytimes.com/2017/01/09/well/live/hooked-on-our-smartphones.html">hit</a>.</p>
 
-<p>"People are carrying around a portable dopamine pump." – David Greenfield, assistant clinical professor of psychiatry at the University of Connecticut School of Medicine and founder of The Center for Internet and Technology Addiction.</p>
+<p>"People are carrying around a portable dopamine pump," <a href="https://www.nytimes.com/2017/03/13/health/teenagers-drugs-smartphones.html">says David Greenfield</a>, assistant clinical professor of psychiatry at the University of Connecticut School of Medicine and founder of The Center for Internet and Technology Addiction.</p>
 
-<p>You sign off one site. You delete one app. Now where do you deposit your saved time? Probably somewhere else online. This has become normal life for most of us. We are caught in a web <a href="https://www.nirandfar.com/2012/07/the-art-of-manipulation.html">designed to keep us there</a>.</p>
+<p>Maybe you recognize there is a problem and try to do something about it.</p>
 
-<p>But we have a choice.</p>
+<p>You sign off one site. You delete one app. Now where do you deposit your saved time? Probably somewhere else online. This has become normal life for most of us. We are caught in webs <a href="https://www.nirandfar.com/2012/07/the-art-of-manipulation.html">designed to keep us there</a>.</p>
+
+<p>I should know. For the last five years, I've been building these nets. I've been pushing dopamine. As a digital designer, it's my job to ensure web and app users enjoy their experiences.</p>
+
+<p>I also know that each of us – as a user – has a choice to make.</p>
+
+<p>Paul Graham explains it as picking between two approaches to living a "normal" life.</p>
 
 <blockquote>
 As the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart. One sense of "normal" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best. These two senses are already quite far apart. Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.
@@ -33,7 +39,7 @@ As the world becomes more addictive, the two senses in which one can live a norm
 
 <p>Avoiding this addiction doesn't require you to avoid all technology. It doesn't require you to rail against the modern world and its growing number of conveniences.</p>
 
-<p>It simply means that you recognize technology's double-edged nature and retain the healthy ability to say no – the ability to <em>not</em> take certain actions.</p>
+<p>It simply means that you recognize technology's double-edged nature and retain the healthy ability to say no sometimes. It's the ability to keep your phone in your pocket and your eyes not locked onto a screen.</p>
 
 <blockquote>
 Few of us want these technologies banned or regulated by ham-fisted government officials. These tools connect us to each other and make life more enjoyable. We live in a tremendous age of technological advancement but as Sophocles said over 2,000 years ago, “nothing vast enters the lives of mortals without a curse.” The Internet is indeed something vast. Now it’s up to us to figure out how to deal with the downsides of these technologies while enjoying their benefits.
