@@ -16,20 +16,20 @@ tags:
 
 <p>"People are carrying around a portable dopamine pump." – David Greenfield, assistant clinical professor of psychiatry at the University of Connecticut School of Medicine and founder of The Center for Internet and Technology Addiction.</p>
 
-<p>You sign off one site. You delete one app. But where do you deposit your saved time? Probably somewhere else online. This has become the norm for most of us. We are caught in a web <a href="https://www.nirandfar.com/2012/07/the-art-of-manipulation.html">designed to keep us there</a>.</p>
+<p>You sign off one site. You delete one app. Now where do you deposit your saved time? Probably somewhere else online. This has become normal life for most of us. We are caught in a web <a href="https://www.nirandfar.com/2012/07/the-art-of-manipulation.html">designed to keep us there</a>.</p>
 
-<p>But there's another type of "normal" life we can choose to live.</p>
+<p>But we have a choice.</p>
 
 <blockquote>
 As the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart. One sense of "normal" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best. These two senses are already quite far apart. Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.
 <citation>– Paul Graham, <a href="http://www.paulgraham.com/addiction.html">"The Acceleration of Addictiveness"</a> 2010</citation>
 </blockquote>
 
-<p>Graham's overall argument is that a life well-lived is one devoid of digital addiction.  You are obviously free to disagree – we are each entitled to our own beliefs about what the "good life" looks like – but why would you?</p>
+<p>Graham's overall argument is that a life well-lived is one devoid of digital addiction. You are obviously free to disagree – we are each entitled to our own beliefs about what the "good life" looks like – but why would you?</p>
 
 <p>Think about what lies <a href="http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html">down the path of digital addiction</a>.</p>
 
-<p>Louis C.K. describes it well – “You never feel completely sad or completely happy, you just feel … kinda satisfied with your products. And then you die."</p>
+<p>Louis C.K. <a href="https://www.youtube.com/watch?v=5HbYScltf1c">describes it well</a> – “You never feel completely sad or completely happy, you just feel … kinda satisfied with your products. And then you die."</p>
 
 <p>Avoiding this addiction doesn't require you to avoid all technology. It doesn't require you to rail against the modern world and its growing number of conveniences.</p>
 
