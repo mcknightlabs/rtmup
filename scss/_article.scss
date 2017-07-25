@@ -1,5 +1,5 @@
 article {
-	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption, table {
+	p, ul, ol, h1, h2, h3, h4, h5, .embed-container, blockquote, figcaption {
 	    padding: 0 0.9375rem;
 	}
 	ul, ol {
@@ -7,7 +7,28 @@ article {
 	}
 	th, td {
 		text-align: left;
-		padding: 1rem .5rem;
+		padding: 1rem 0;
+	}
+	table {
+		font-size: .875rem;
+		width: 100%;
+		overflow-x: auto;   /* Scrollbar is displayed as it's needed */
+		word-wrap:break-word;
+		caption {
+			background: #000;
+			color: #fff;
+			font-weight: bold;
+			padding: 1rem 0;
+			text-align: center;
+			text-transform: uppercase;
+			.details {
+				text-transform: none;
+				margin-top: .5rem;
+				display: block;
+				font-size: .875rem;
+				font-weight: 100;
+			}
+		}
 	}
 	.table-striped>tbody>tr:nth-child(odd)>td, 
 	.table-striped>tbody>tr:nth-child(odd)>th {
@@ -177,6 +198,10 @@ article, article.b {
 		}
 	}
 	article, article.b {
+		th, td {
+			text-align: left;
+			padding: 1rem .5rem;
+		}
 		.article-title {
 			font-size: 2.675rem;
 		}

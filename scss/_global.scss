@@ -91,6 +91,11 @@ hr.style-eight { /* Glyph, by Harry Roberts */
 
 // medium screen size up
 @media (min-width: 600px ) {
+	.medium-format {
+		figure {
+			width: 80%;
+		}
+	}
 	.hide-on-desktop {
 		display: none;
 	}
