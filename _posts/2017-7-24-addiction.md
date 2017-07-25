@@ -40,7 +40,7 @@ Few of us want these technologies banned or regulated by ham-fisted government o
 <citation>Nir Eyal, in response to <a href="https://aeon.co/essays/if-the-internet-is-addictive-why-don-t-we-regulate-it">"User Behavior"</a> 2015</citation>
 </blockquote>
 
-<p>What kind of normal life will you live?</p>
+<p>What kind of normal life will you choose?</p>
 
 
 
