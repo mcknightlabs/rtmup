@@ -8,6 +8,8 @@ tags:
 - tech
 ---
 
+<p>UPDATE Jan 2017: The workflow described in this post has been replaced with one centered around JIRA and Confluence.</p>
+
 <p><em>This is the first post in a series about my project management workflow – how I wrangle problems, goals, and deadlines.</em></p>
 
 <p><strong>The biggest project management problems I face are as follows:</strong></p>
