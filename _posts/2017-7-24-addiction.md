@@ -39,7 +39,7 @@ As the world becomes more addictive, the two senses in which one can live a norm
 
 <p>Avoiding this addiction doesn't require you to avoid all technology. It doesn't require you to rail against the modern world and its growing number of conveniences.</p>
 
-<p>It simply means that you recognize technology's double-edged nature and retain the healthy ability to say no sometimes. It's the ability to keep your phone in your pocket and your eyes not locked onto a screen.</p>
+<p>It simply means that you recognize technology's double-edged nature and retain the healthy ability to say no sometimes – to keep your phone in your pocket and your eyes off a screen.</p>
 
 <blockquote>
 Few of us want these technologies banned or regulated by ham-fisted government officials. These tools connect us to each other and make life more enjoyable. We live in a tremendous age of technological advancement but as Sophocles said over 2,000 years ago, “nothing vast enters the lives of mortals without a curse.” The Internet is indeed something vast. Now it’s up to us to figure out how to deal with the downsides of these technologies while enjoying their benefits.
