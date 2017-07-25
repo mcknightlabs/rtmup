@@ -27,7 +27,7 @@ As the world becomes more addictive, the two senses in which one can live a norm
 
 <p>Graham's overall argument is that a life well-lived is one devoid of digital addiction.  You are obviously free to disagree – we are each entitled to our own beliefs about what the "good life" looks like – but why would you?</p>
 
-<p>Think about what lies down the path of digital addiction.</p>
+<p>Think about what lies <a href="http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html">down the path of digital addiction</a>.</p>
 
 <p>Louis C.K. describes it well – “You never feel completely sad or completely happy, you just feel … kinda satisfied with your products. And then you die."</p>
 
@@ -41,92 +41,6 @@ Few of us want these technologies banned or regulated by ham-fisted government o
 </blockquote>
 
 <p>What kind of normal life will you live?</p>
-
-
-<!--
-
-<p>Offline emotions run deeper. – "For if there is no dark night of the soul anymore that isn’t lit with the flicker of the screen, then there is no morning of hopefulness either."</p>
-
-
-<p>There are a lot of heuristics.</p>
-
-<p>You can ask yourself the following questions:</p>
-
-<ul>
-	<li>If I could only be remembered for how I lived my life on a single day, what would I do? How would I choose to fill those hours?</li>
-</ul>
-
-<p>Would you spend it Snapping? Browsing Facebook? Watching Netflix? Checking email?</p>
-
-
-<p>We could blame the social media companies for this addiction. And the dealers are somewhat culpable. ...They shape social norms.</p>
-
-But so are you, the user.</p>
-
-<p>Ultimately, you control your thoughts and actions.</p>
-
-<p>Your life online is superficial. Once in a while, 
-
-<p>What does addiction look like? you are probably addicted.</p>
-
-
-
-<ul>
-	<li>Unplug from all social media, except chat apps. You don't need other people to like your thoughts, photos, or vacations.</li>
-	<li>Be okay with silence.</li>
-
- 
-<p>"I treat every patient as the most important patient I have ever had."</p>
-
-
-
-If you are excited about something, find someone else who is and share it with them.
-
-The richest moments in life are ones spent enjoying company of other people – of family, friends, and strangers. Standing around in a group with phones in hand is not...
-
-Go outside.
-
-http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html
-
-
-
-
-<p>Life is not to be lived online.</p>
-
-
-
-
-
-
-
-Just because technology makes life simpler, it doesn't n.</p>
-
-<p>As I stand on the metro platform.
-
-<p>Is time spent checking your phone time well spent?</p>
-
-
-How many of those 24 hours would you spend checking your phone?
-
-<p>Are most apps designed to make you addicted?</p>
-
-<p>My job is to design for the web.</p>
-
-<p>Simplicity dulls the mind.</p>
-
-<p>I also believe that most are designed to make you addicted.</p>
-
-most websites and apps are not life affirming.
-
-<p>Click. Swipe.</p>
-
-https://www.nirandfar.com/2012/07/the-art-of-manipulation.html
-https://aeon.co/essays/if-the-internet-is-addictive-why-don-t-we-regulate-it?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
--->
-
-
-
-
 
 
 
