@@ -9,7 +9,7 @@ tags:
 - tech
 ---
 
-<p>A few months ago, I attended a panel discussion on mobile web design. During the Q&A session, one of the attendees explained that her company had decided to build a new corporate site. She went on to reveal she didn’t know much about web development but had been tasked with leading the project. Then she popped a question that seemed to catch all the panel members off guard— “Where do I start?” The question was clearly outside the scope of the mobile design talk but not surprising to hear at such an event. Confusion during the ‘getting started’ phase is quite common, especially for small companies that don’t have experienced web developers on staff.<p>
+<p>A few months ago, I attended a panel discussion on mobile web design. During the Q&A session, one of the attendees explained that her company had decided to build a new corporate site. She went on to reveal she didn’t know much about web development but had been tasked with leading the project. Then she popped a question that seemed to catch all the panel members off guard— “Where do I start?” The question was clearly outside the scope of the mobile design talk but not surprising to hear at such an event. Confusion during the ‘getting started’ phase is quite common, especially for small companies that don’t have experienced web developers on staff.</p>
 
 <p>So, what’s a good way to answer,”Where do I start?” other than, “It depends”(thanks, Capt. Obvious)? How about an anecdote…</p>
 
@@ -39,17 +39,17 @@ tags:
 
 <p>I’ll briefly address each.</p>
 
-<h3>1) Should we go with a responsive framework or dedicated mobile site?</h4>
+<h3>1) Should we go with a responsive framework or dedicated mobile site?</h3>
 
 <p>Although we already knew we would take a mobile-first approach, our team still needed to decide between a responsive and dedicated mobile site. On the one hand, we knew a single, responsive website could be tailored to look good on most any screen size and would likely provide the company with a more cutting-edge online presence. We also knew it would mean easier site maintenance going forward (only one site to update). In contrast, we thought dedicated desktop and mobile sites would probably be easier and faster to design and develop.</p>
 
 <p>Weighing the various pros and cons, we took the leap and opted for a responsive site.</p>
 
-<h3>2) Should we purchase a template or build the site ourselves?</h4>
+<h3>2) Should we purchase a template or build the site ourselves?</h3>
 
 <p>Realizing the opportunity cost of building our own site, we spent some time browsing templates. In the end, we didn’t come across any closely aligned with our needs. Also wanting to have a unique online presence, we decided to create something really original. A further added bonus of building the site ourselves was the far greater learning opportunity. No one on the team had ever built a responsive website. — <strong>We ended up learning by buying a few books, reading responsive design articles on the interwebs, and making a lot of glorious mistakes.</strong></p>
 
-<h3>3) Which combination of front-end/back-end frameworks should we use?</h4>
+<h3>3) Which combination of front-end/back-end frameworks should we use?</h3>
 
 <p>At this stage, we did a great deal of research on various frameworks. Regarding the front end, we checked out everything from bare-bones CSS frameworks like <a href="http://960.gs/">960 Grid</a> and <a href="http://goldengridsystem.com/">Golden Grid</a> to more complex ones like <a href="https://medium.com/">Bootstrap</a> and <a href="http://foundation.zurb.com/">Foundation</a>. After numerous comparisons (we kept a spreadsheet of contenders) and article reading, we ended up selecting Bootstrap. Right out of the box, it offers a lot of useful code for things like mobile menus and a decent responsive framework.</p>
 
