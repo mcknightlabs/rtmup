@@ -2,7 +2,7 @@
 layout: article
 title: Strong teams
 description: When you have something special, never take it for granted.
-category: blog
+category: tech
 tags: 
 - management
 - tech

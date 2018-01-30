@@ -2,7 +2,7 @@
 layout: article
 title: Project management workflow v2.0
 description:
-category: blog
+category: tech
 tags: 
 - management
 - tech
@@ -30,7 +30,7 @@ tags:
 	<li>Track task assignments and project progress in a way that is scaleable and not overly burdensome on myself or team</li>
 </ul> 
 
-<p>To accomplish these objectives, I organically came up with the approach I wrote about in this <a href="{% post_url 2016-03-12-pm-workflow %}">March 2016 post</a>.</p>
+<p>To accomplish these objectives, I organically came up with the approach I wrote about in this <a href="{% post_url tech-design/2016-03-12-pm-workflow %}">March 2016 post</a>.</p>
 
 <p>Since that time, my tactics have evolved quite a bit.</p>
 
@@ -38,7 +38,7 @@ tags:
 <ul>
 	<li><span class="strike-through"><del><strong>"Action needed" Gmail inbox:</strong></del></span> I have been using Gmail's "multiple inboxes" feature for most of 2016 in an attempt to better stay on top of ongoing projects and keep my inbox near 0. My initial approach was to split my inbox into 4 sections: 1) Inbox, 2) Action Needed, 3) Useful, and 4) To Read. Recently, I reassessed this technique and decided the "action needed" inbox was non-essential. I found I could just "star" emails in my inbox – as an "action needed" reference – and still keep my inbox down to 10-20 messages.</li>
 	<li><del><strong>Running e-mail of team member assignments:</strong></del> For about two years, I kept track of all team member assignments in a single email. I did this because we were using several different project management tools and this was the best way to give myself a high-level view of team activity. In the end, it proved an unsustainable and unscaleable method.</li>
-	<li><del><strong>Trello + Basecamp + Github + Email</strong></del> Using multiple project management tools can create all sorts of <a href="{% post_url 2016-08-17-burnout %}">pain points</a> and headaches. Over the past couple of months, I spent a good deal of effort moving my team to a single platform – Github.</li>
+	<li><del><strong>Trello + Basecamp + Github + Email</strong></del> Using multiple project management tools can create all sorts of <a href="{% post_url tech-design/2016-08-17-burnout %}">pain points</a> and headaches. Over the past couple of months, I spent a good deal of effort moving my team to a single platform – Github.</li>
 	<li><strong>Github:</strong> For a long time, I primarily viewed Github as a tool for managing web issues – e.g. front-end design changes – that I want version-controlled. Recently, I decided to leverage the platform to keep track of our graphic design projects too. A dedicated "design" repository now enables our team to manage non-front-end related design issues. Because all of our design issues are on a single task/project management platform, I no longer need the running email previously mentioned.</li>
 	<li>
 		<strong>All Github issues are visualized via Waffle.io:</strong> 

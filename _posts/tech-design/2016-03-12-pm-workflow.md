@@ -2,7 +2,7 @@
 layout: article
 title: Project management workflow
 description:
-category: blog
+category: tech
 tags: 
 - management
 - tech

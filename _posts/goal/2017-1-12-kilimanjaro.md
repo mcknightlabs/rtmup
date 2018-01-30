@@ -2,7 +2,7 @@
 layout: photos
 title: Kilimanjaro
 description:
-category: blog
+category: goal
 tags: 
 - self-mastery
 ---

@@ -1,10 +1,9 @@
 ---
 layout: photos
 title: Kathmandu Valley
-description:
-category: blog
+description: Shot on Ricoh GR II
+category: photos
 tags: 
-- photography
 ---
 
 <div class="row">

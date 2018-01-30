@@ -2,7 +2,7 @@
 layout: article
 title: What does it take to become a VC?
 description: An engaging Twitter conversation
-category: blog
+category: tech
 tags: 
 - tech
 ---

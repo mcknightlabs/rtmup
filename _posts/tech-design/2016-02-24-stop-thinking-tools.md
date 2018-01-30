@@ -2,7 +2,7 @@
 layout: article
 title: Stop thinking about tools
 description: And other tips for design job candidates
-category: blog
+category: tech
 tags: 
 - design
 - tech
@@ -58,4 +58,4 @@ tags:
 
 <p>If you want to get UX design job interviews, find out what that type of position entails. Google. Read articles on Medium. Follow UX designers on Twitter. Watch panels and interviews with UX designers on YouTube. Go look at the job listings. See what those type of companies are looking for in terms of skills.</p>
 
-<p>For even more tips about applying for design jobs, check out <a href="{% post_url 2014-10-30-land-a-great-design-job %}">this other post</a> I wrote.</p>
+<p>For even more tips about applying for design jobs, check out <a href="{% post_url tech-design/2014-10-30-land-a-great-design-job %}">this other post</a> I wrote.</p>

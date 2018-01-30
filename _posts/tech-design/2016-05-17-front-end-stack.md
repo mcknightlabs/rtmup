@@ -2,7 +2,7 @@
 layout: article
 title: Front-end stack breakdown 
 description:
-category: blog
+category: tech
 tags: 
 - design
 - tech

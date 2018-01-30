@@ -2,7 +2,7 @@
 layout: article
 title: How to hack a hackathon
 description:
-category: blog
+category: tech
 tags: 
 - tech
 ---

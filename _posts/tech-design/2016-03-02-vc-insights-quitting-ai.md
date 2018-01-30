@@ -2,7 +2,7 @@
 layout: article
 title: VC insights, quitting, and AI
 description: 3 articles to check out
-category: blog
+category: tech
 tags: 
 - tech
 ---

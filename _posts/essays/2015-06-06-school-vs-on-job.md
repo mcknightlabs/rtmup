@@ -2,7 +2,7 @@
 layout: article
 title: School vs learn on the job
 description: I got into the no. 1 HCI program in the country. But I didn't go.
-category: blog
+category: essay
 tags: 
 - tech
 ---

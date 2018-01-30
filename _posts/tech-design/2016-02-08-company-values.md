@@ -2,7 +2,7 @@
 layout: article
 title: Company Values
 description: User vs client
-category: blog
+category: tech
 tags: 
 - startup chronicles
 - tech

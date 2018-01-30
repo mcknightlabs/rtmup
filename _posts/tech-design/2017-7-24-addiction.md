@@ -2,7 +2,7 @@
 layout: article
 title: Line me up that dopamine
 description: Which normal life will you choose?
-category: blog
+category: tech
 tags: 
 - self-mastery
 - tech

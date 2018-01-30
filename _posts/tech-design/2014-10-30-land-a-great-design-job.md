@@ -2,7 +2,7 @@
 layout: article
 title: How to land a great design job 
 description: This is what I look for when I hire.
-category: blog
+category: tech
 tags: 
 - design
 - tech

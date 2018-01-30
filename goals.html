@@ -5,15 +5,15 @@ layout: default
 <section class="article-section">
 	<div class="header-wrapper">
 		<hr>
-		<h2>Blog</h2>
+		<h2>Goal Pursuit</h2>
 	</div>
 	<ul class="article-list">
-		{% for blog in site.categories.blog %}
+		{% for goal in site.categories.goal %}
 		<li>
-			<h3><a href="{{ blog.url }}">{{ blog.title }}</a></h3>
-			<p class="description">{{ blog.description }}</p>
-			<p class="meta">Posted: {{ blog.date | date: '%B %d, %Y' }} 
-			{% for tag in blog.tags %}
+			<h3><a href="{{ goal.url }}">{{ goal.title }}</a></h3>
+			<p class="description">{{ goal.description }}</p>
+			<p class="meta">Posted: {{ goal.date | date: '%B %d, %Y' }} 
+			{% for tag in goal.tags %}
 			{% capture tag_name %}{{ tag }}{% endcapture %}
 			<span class="topics">•
 				<a href="/tags/{{ tag_name }}">

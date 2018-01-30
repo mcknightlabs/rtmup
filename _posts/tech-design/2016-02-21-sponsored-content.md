@@ -2,7 +2,7 @@
 layout: article
 title: Sponsored content branding
 description: How I signpost for users
-category: blog
+category: tech
 tags: 
 - design
 - tech
