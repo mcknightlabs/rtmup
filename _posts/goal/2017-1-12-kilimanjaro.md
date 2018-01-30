@@ -4,7 +4,6 @@ title: Kilimanjaro
 description:
 category: goal
 tags: 
-- self-mastery
 ---
 
 <div class="row">
