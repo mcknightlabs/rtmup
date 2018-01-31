@@ -1,6 +1,6 @@
 ---
 layout: photos
-title: Kilimanjaro
+title: Summit Kilimanjaro
 description:
 category: goal
 tags: 
