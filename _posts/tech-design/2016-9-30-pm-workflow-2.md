@@ -8,11 +8,6 @@ tags:
 - tech
 ---
 
-<figure>
-	<img src="https://s3.amazonaws.com/rtmup.com/blog_images/pm/Screen+Shot+2016-10-01+at+5.01.34+PM.png" width="100%">
-	<figcaption>Screenshot of <a href="https://waffle.io/">Waffle.io homepage</a></figcaption>
-</figure>
-
 <p>UPDATE Jan 2017: The Waffle.io workflow described in this post has been replaced with one centered around JIRA and Confluence.</p>
 
 <h2>Intro</h2>

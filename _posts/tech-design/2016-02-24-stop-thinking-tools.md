@@ -8,10 +8,6 @@ tags:
 - tech
 ---
 
-<figure>
-<img src="{{ site.url }}/media/img/learn-code.jpg" class="img-border">
-</figure>
-
 <p><span class="drop-cap">I</span> have been asked for design career advice from a number of college students. One of the questions that keeps coming up... <storng>Do I need to learn to code?</strong></p>
 
 <p>A lot of times, I'll say, "it depends." This week, I changed my answer.</p>
