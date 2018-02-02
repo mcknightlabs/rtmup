@@ -42,10 +42,10 @@ I was ecstatic.
 
 Not wanting to lose this opportunity, I low-balled the salary number – or so I thought. The founders counter-offered. The counter was low enough, in fact, that I felt I had to move on. I told them that I appreciated the offer, but I would continue to look for a full-time position elsewhere.
 
-A few days later, the founders surprised me again by reversing position. They said they were prepared to match my original ask – $25 per hour (~ $42,000/year).
+A few days later, the founders surprised me again by reversing position. They said they were prepared to increase the offer to $3,500 per month ($42,000/year).
 
 On January 8th, 2013, I signed a six-month contract. 
 
 I was in. 
 
-At tweny-three, I had become a startup employee.
+At the age of tweny-three, I had landed a job at a startup
