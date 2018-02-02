@@ -616,6 +616,8 @@ header {
   width: 100%;
   border-top: 1px solid black;
   margin: 1rem 0 1.1875rem 0; }
+.article-section .page-description {
+  margin-bottom: 4rem; }
 
 .header-wrapper {
   position: relative;
