@@ -1,7 +1,7 @@
 ---
 layout: photos
 title: Summit Kilimanjaro
-description:
+description: Watching the sunrise from 5,895m (19,341ft) was an unforgettable moment.
 category: goal
 tags:
 ---
