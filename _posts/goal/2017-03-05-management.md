@@ -18,13 +18,15 @@ Over the next few years, the pace of growth at the company did not change – we
 
 The transactional perspective with which I began shifted to a focus on individual and team development.
 
-Sure, being able to effectively delegate and oversee a bunch of tasks and projects is important. Making sure a team ships products on time is important. But that is all transactional, and, in my mind, not good enough. Just knocking out lots of "wins" for the company has never made me feel like a great manager.
+Sure, being able to effectively delegate and oversee a bunch of tasks and projects is important. But that is all transactional, and, in my mind, not good enough. Just knocking out lots of "wins" for the company has never made me feel like a great manager.
 
-The only time I feel like a great manager is when I lead others in a way that I earn my own respect.
+The only time I have felt like a great manager was when I led others in such a way that I earned my own respect.
 
-For me, that respect demands a commitment to temperance, self-awareness, and the prioritization of one's duty to others over self. The problem is that consistently living out these qualities is really fucking hard. There are no shortcuts. It takes a lot of mental effort all of the time.
+These were times when I felt I exhibited temperance, self-awareness, and successfully prioritized the interests of others over my own. 
 
-Below are some questions I have used over the years to self-assess and think about ways I can improve.
+Consistently living out these qualities is obviously difficult and something with which I continually struggle. There are no shortcuts. It takes a lot of mental effort.
+
+Below are a few questions I have used over the years to self-assess and reflect on ways I can improve.
 
 ### Am I letting personal problems influence how I treat my work and team?
 This is number one on my list, because I find it the most difficult.
@@ -36,7 +38,7 @@ This is number one on my list, because I find it the most difficult.
 </div>
 
 ### Am I sliding toward burnout?
-I try to take a proactive approach to <a href="http://rtmup.com/blog/2016/08/17/burnout.html">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
+I try to take a proactive approach to <a href="{% post_url tech-design/2016-08-17-burnout %}">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
 
 ### Am I reacting or responding?
 <ul>
