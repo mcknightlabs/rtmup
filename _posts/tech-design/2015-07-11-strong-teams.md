@@ -8,7 +8,7 @@ tags:
 - tech
 ---
 
-<p><span class="drop-cap">W</span>hen you have something special – like talented team members who believe in each other and the company's vision – never take that for granted. As with significant others, you must be proactive if you want the people you care about to hang around.</p>
+<p>When you have something special – like talented team members who believe in each other and the company's vision – never take that for granted. As with significant others, you must be proactive if you want the people you care about to hang around.</p>
 
 <p>Founders, managers, and entry-level employees can all take steps to strengthen their team and reduce turnover.</p>
 

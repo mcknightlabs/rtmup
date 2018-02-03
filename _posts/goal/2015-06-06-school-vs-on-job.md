@@ -8,8 +8,8 @@ tags:
 ---
 
 <figure>
-<img src="{{ site.github.url }}/media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
-<figcaption>CMU's HCI grad program orientation 2013. I'm second from the right.</figcaption>
+	<img src="{{ site.github.url }}/media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
+	<figcaption>CMU's HCI grad program orientation 2013. I'm second from the right.</figcaption>
 </figure>
 
 <p>Measuring the value of any particular personal goal is a task best left to the individual. Although it is often immensely difficult, you can evaluate a goal and compare competing goals by determining the extent to which each one aligns with and furthers your core values and helps satisfy basic human needs.</p>

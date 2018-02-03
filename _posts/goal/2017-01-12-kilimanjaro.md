@@ -12,6 +12,7 @@ tags:
 	</div>
 </div>
 
+<div class="medium-frame">
 <figure>
 	<img src="https://s3.amazonaws.com/rtmup.com/blog_images/kilimanjaro/R0010082.jpg" width="100%">
 </figure>
@@ -307,3 +308,4 @@ tags:
 <figure>
 	<img src="https://s3.amazonaws.com/rtmup.com/blog_images/kilimanjaro/R0010629.jpg" width="100%">
 </figure>
+</div>
