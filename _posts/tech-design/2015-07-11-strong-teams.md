@@ -29,7 +29,7 @@ tags:
 		<p>When you think you are being too transactional, let that person know. This kind of feedback means a lot to employees. During an intensely busy period of work, I received this e-mail from one of the founders of <a href="https://twitter.com/industrydive">@IndustryDive</a>.</p>
 	</div>
 	<div class="large-6 columns">
-		<figure><img src="{{ site.url }}/media/img/transactional.png"></figure>
+		<figure><img src="{{ site.url }}/media/img/tech-design/2015-07-11-strong-teams/transactional.png"></figure>
 	</div>
 </div>
 

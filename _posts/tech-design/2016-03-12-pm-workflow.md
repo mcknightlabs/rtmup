@@ -40,7 +40,7 @@ tags:
 <p>I currently have four inboxes: 1) Inbox 2) Action needed 3) To read 4) Useful</p>
 
 <figure>
-	<img src="{{ site.url }}/media/img/pm/multi-inboxes.jpg" class="img-border">
+	<img src="{{ site.url }}/media/img/tech-design/2016-03-12-pm-workflow/multi-inboxes.jpg" class="img-border">
 </figure>
 
 <p>Every new email goes in the main inbox.</p>
@@ -64,12 +64,12 @@ tags:
 <div class="row">
 	<div class="medium-4 columns">
 		<figure>
-			<img src="{{ site.url }}/media/img/pm/trello-1.jpg" class="img-border">
+			<img src="{{ site.url }}/media/img/tech-design/2016-03-12-pm-workflow/trello-1.jpg" class="img-border">
 		</figure>
 	</div>
 	<div class="medium-8 columns">
 		<figure>
-			<img src="{{ site.url }}/media/img/pm/trello-2.jpg" class="img-border">
+			<img src="{{ site.url }}/media/img/tech-design/2016-03-12-pm-workflow/trello-2.jpg" class="img-border">
 		</figure>
 	</div>
 </div>

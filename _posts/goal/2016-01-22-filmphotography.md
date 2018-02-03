@@ -1,7 +1,7 @@
 ---
 layout: photos
 title: Learn to shoot film
-description:
+description: How I taught myself 35mm and medium format photography
 category: goal
 tags:
 ---

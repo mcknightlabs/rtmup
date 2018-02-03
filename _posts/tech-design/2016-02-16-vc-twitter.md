@@ -12,6 +12,6 @@ tags:
 
 <div class="medium-format">
 	<figure>
-		<img src="{{ site.url }}/media/img/twitter_convo.jpg" class="img-border">
+		<img src="{{ site.url }}/media/img/tech-design/2016-02-16-vc-twitter/twitter_convo.jpg" class="img-border">
 	</figure>
 </div>

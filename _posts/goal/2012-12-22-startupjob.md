@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Land a job at a startup company
-description:
+description: Without using any connections, I turned myself into a startup employee.
 category: goal
 tags:
 ---
