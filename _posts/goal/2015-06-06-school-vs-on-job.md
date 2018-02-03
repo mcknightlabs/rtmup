@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Go back to school vs learn on the job
-description: I was accepted into the no. 1 HCI program in the country. I decided not to go.
+description: I was accepted into the no. 1 HCI program in the country. This is why I decided not to go.
 category: goal
 tags: 
 - tech

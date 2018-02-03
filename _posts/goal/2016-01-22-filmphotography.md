@@ -1,7 +1,7 @@
 ---
 layout: photos
 title: Learn to shoot film
-description: How I taught myself 35mm and medium format photography
+description: I bought a cheap 35mm to teach myself to shoot film and quickly moved to medium format.
 category: goal
 tags:
 ---
