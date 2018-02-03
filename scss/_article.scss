@@ -89,34 +89,6 @@ article, article.b {
 		max-width: 70%;
 		margin: 30px auto;
 	}
-	figure {
-		max-width: 100%;
-		margin: 0 auto 2.5rem auto !important;
-		&.graphic {
-			max-width: 720px;
-		}
-		figcaption {
-			margin-top: .5rem;
-			font-size: .875rem;
-			color: #717584;
-		}
-		img {
-			display: block;
-			margin: 0 auto;
-		}
-		&.photo {
-			&:first-of-type {
-				margin: 0 0 40px 0;
-			}
-			margin: 40px 0;
-		}
-		iframe {
-			margin: 0 auto;
-			max-width: 100%;
-			height: auto;
-		}
-	}
-
 	.drop-cap {
 		font-size: 2.5rem;
 		float:left;

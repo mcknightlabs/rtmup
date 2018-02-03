@@ -389,10 +389,26 @@ a {
 a:hover {
   text-decoration: underline; }
 
-iframe {
+figure {
+  max-width: 100%;
+  margin: 0 auto 2.5rem auto !important; }
+figure.graphic {
+  max-width: 720px; }
+figure figcaption {
+  margin-top: .5rem;
+  font-size: .875rem;
+  color: #717584; }
+figure img {
   display: block;
-  height: 350px;
   margin: 0 auto; }
+figure.photo {
+  margin: 40px 0; }
+figure.photo:first-of-type {
+  margin: 0 0 40px 0; }
+figure iframe {
+  margin: 0 auto;
+  width: 100%;
+  height: auto; }
 
 main {
   clear: both;
@@ -444,8 +460,16 @@ hr.style-eight:after {
   border: solid 1px #ccc; }
 
 @media (min-width: 600px) {
-  .medium-format figure {
-    width: 80%; }
+  figure {
+    max-width: 45rem; }
+  figure iframe {
+    width: 45rem; }
+
+  .full-frame figure {
+    max-width: 100%; }
+
+  .medium-frame figure {
+    max-width: 80%; }
 
   .hide-on-desktop {
     display: none; }
@@ -755,26 +779,6 @@ article .image-credit, article.b .image-credit {
 article figure.graph, article.b figure.graph {
   max-width: 70%;
   margin: 30px auto; }
-article figure, article.b figure {
-  max-width: 100%;
-  margin: 0 auto 2.5rem auto !important; }
-article figure.graphic, article.b figure.graphic {
-  max-width: 720px; }
-article figure figcaption, article.b figure figcaption {
-  margin-top: .5rem;
-  font-size: .875rem;
-  color: #717584; }
-article figure img, article.b figure img {
-  display: block;
-  margin: 0 auto; }
-article figure.photo, article.b figure.photo {
-  margin: 40px 0; }
-article figure.photo:first-of-type, article.b figure.photo:first-of-type {
-  margin: 0 0 40px 0; }
-article figure iframe, article.b figure iframe {
-  margin: 0 auto;
-  max-width: 100%;
-  height: auto; }
 article .drop-cap, article.b .drop-cap {
   font-size: 2.5rem;
   float: left;

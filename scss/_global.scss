@@ -30,10 +30,32 @@ a {
 		text-decoration: underline;
 	}
 }
-iframe {
-	display: block;
-	height: 350px;
-	margin: 0 auto;
+figure {
+	max-width: 100%;
+	margin: 0 auto 2.5rem auto !important;
+	&.graphic {
+		max-width: 720px;
+	}
+	figcaption {
+		margin-top: .5rem;
+		font-size: .875rem;
+		color: #717584;
+	}
+	img {
+		display: block;
+		margin: 0 auto;
+	}
+	&.photo {
+		&:first-of-type {
+			margin: 0 0 40px 0;
+		}
+		margin: 40px 0;
+	}
+	iframe {
+		margin: 0 auto;
+		width: 100%;
+		height: auto;
+	}
 }
 main {
     clear: both;
@@ -91,9 +113,20 @@ hr.style-eight { /* Glyph, by Harry Roberts */
 
 // medium screen size up
 @media (min-width: 600px ) {
-	.medium-format {
+	figure {
+		max-width: 45rem;
+		iframe {
+			width: 45rem;
+		}
+	}
+	.full-frame {
 		figure {
-			width: 80%;
+			max-width: 100%;
+		}
+	}
+	.medium-frame {
+		figure {
+			max-width: 80%;
 		}
 	}
 	.hide-on-desktop {
