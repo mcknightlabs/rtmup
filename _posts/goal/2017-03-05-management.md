@@ -24,7 +24,7 @@ The only time I feel like a great manager is when I lead others in a way that I
 
 For me, that respect demands a commitment to temperance, self-awareness, and the prioritization of one's duty to others over self. The problem is that consistently living out these qualities is really fucking hard. There are no shortcuts. It takes a lot of mental effort all of the time.
 
-Below are some questions I use to self-assess and think about ways I can improve.
+Below are some questions I have used over the years to self-assess and think about ways I can improve.
 
 ### Am I letting personal problems influence how I treat my work and team?
 This is number one on my list, because I find it the most difficult.
