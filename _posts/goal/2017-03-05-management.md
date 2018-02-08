@@ -61,7 +61,7 @@ I make it a point to never become close friends with anyone whom I have the abil
 
 Building upon my own self-assessments, I have established management strategies related to two other areas – individuals and the team.
 
-## Individual development and growth
+## Team development
 
 ### Hire the right people
 
