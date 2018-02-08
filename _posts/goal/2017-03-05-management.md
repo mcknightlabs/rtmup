@@ -77,10 +77,12 @@ What follows are my personal hiring guidelines.
 
 ### Conduct quarterly performance evals
 In order for a performance evaluation to serve a useful purpose, I believe you must first have clearly defined individual, team, and company goals and performance expectations.
+
 That is the baseline.
+
 Once you have that baseline, you can use a performance check-in to praise good work and recommend areas for further improvement. This can also help an employee understand annual salary decisions.
 
-At Industry Dive, our performance evals worth like this:
+At Industry Dive, our performance evals (in March 2017) work like this:
 
 A direct report and a manager receive assessment sheets. The direct report self-assesses and emails the sheet to the manager. The manager fills out a similar assessment sheet about the direct report. The pair then meet for thirty minutes at a scheduled time to go over both assessments. The assessments are mainly performance focused – where are you "rocking it" and where do you need to continue to grow.
 
