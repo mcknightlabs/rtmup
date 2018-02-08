@@ -39,7 +39,7 @@ To our relief, the submerged platform reappeared ahead of us on both attempts.
 
 With Open Water and Advanced certifications in hand, I established a pair of new goals – dive in the Galápagos and the Red Sea. I had read that these were among the best locations to dive in the world. 
 
-Before the end of October, I exchanged my credit card points for roundtrip tickets to the Galápagos two days after Christmas. Also joining for the trip was my film school buddy, Joe, who [photographed glacial ice caves]({% post_url goal/2016-05-02-icecaves %}) with me in 2016.
+Before the end of October, I exchanged my credit card points for a flight to the Galápagos two days after Christmas. Also joining for the trip was my film school buddy, Joe, who [photographed glacial ice caves]({% post_url goal/2016-05-02-icecaves %}) with me in 2016.
 
 Not to let November go to waste, I made the call to squeeze in a couple more training dives and pick up my [PADI Freediver](http://www.padi.com/courses/freediver) certification.
 
