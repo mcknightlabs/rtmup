@@ -5,7 +5,7 @@ description:
 category: goal
 tags:
 og_title: Learn to scuba dive
-og_description:
+og_description: The Pennsylvania spring water was as cold as you might expect in September.
 og_image: /media/img/goals/2018-02-07-scubadiving/mcknight-diving.jpg
 og_type: website
 ---

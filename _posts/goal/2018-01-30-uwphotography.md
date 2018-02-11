@@ -4,7 +4,7 @@ title: Learn underwater photography
 description:
 category: goal
 og_title: Learn underwater photography
-og_description:
+og_description: Even with a lot of prior photography experience, this was challenging.
 og_image: /media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg
 og_type: website
 ---
