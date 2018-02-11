@@ -116,7 +116,7 @@ After fixing the smudges, bubbles, and distortion, I finally started capturing s
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/joe.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uuwphotography/black-salemas.jpg">
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uuwphotography/black-salema-school.jpg">
 	</figure>
 	<figure>
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/black-salemas-2.jpg">
