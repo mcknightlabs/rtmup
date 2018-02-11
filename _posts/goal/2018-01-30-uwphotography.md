@@ -38,7 +38,7 @@ About two weeks before my trip, I came across 4K footage shot on a [Panasonic GH
 
 Here are a few features that stood out:
 
-* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not even possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and partical-filled water.
+* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and partical-filled water.
 * **Records 4K in 60FPS:** The underwater world is a fast moving one. The relatively high frame rate of 60FPS means you can obtain a natural looking, slow-motion image in post-production.
 * **Records a flat image profile:** A flat image profile helps you grade the footage – e.g. pull highlights or push exposure – in post-production, without it falling apart.
 * **20MP sensor:** With a decent sensor, you can capture high-quality stills, in addition to video.

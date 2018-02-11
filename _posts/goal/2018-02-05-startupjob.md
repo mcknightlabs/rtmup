@@ -33,9 +33,9 @@ As I prepared for my final exams, I started applying for various tech and design
 
 None of my initial leads panned out, and I returned to North Carolina when my lease expired in London.
 
-To save money while continuing my job search, I stayed with my parents for a couple of months.
+To save money while continuing my job hunt, I stayed with my parents for a couple of months.
 
-My family didn't have any startup connections, so I simply searched the big job boards – Monster, Indeed, etc. I looked for positions I thought were a good fit and sent out emails into that great darkness.
+My family didn't have any startup connections. I simply browsed the big job boards – Monster, Indeed, etc. As I came across positions I thought were a good fit, I sent out emails into that great darkness.
 
 One of the startups I cold contacted was Industry Dive, a DC-based B2B media company that was searching for a marketing intern.
 
@@ -51,7 +51,7 @@ The day after the call, Willumson invited me to join the Industry Dive team for 
 
 I accepted. It was a foot in the door at a startup, and I was thrilled.
 
-As the internship start date neared, I drove up to Baltimore to stay with one of my undergrad roommates. I crashed on his couch for a couple of nights, driving to DC at 6am each morning to look at sixth-month sublets. With only an internship secured, a grad school loan to repay, and dwindling savings, I couldn't afford a longer lease.
+As the internship start date neared, I drove up to Baltimore to stay with one of my undergrad roommates. I crashed on his couch for a couple of nights, driving to DC at 6am each morning to find a sixth-month sublet. With only an internship secured, a grad school loan to repay, and dwindling savings, I couldn't afford a longer lease.
 
 After viewing about a dozen rooms in and around DC, I joined a four person group house in Alexandria. It was over an hour and fifteen minute commute to the office by public transit, but it worked well financially. I had saved just enough money from a job I held during grad school to cover the security deposit and first two months of rent.
 
