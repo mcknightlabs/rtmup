@@ -5,7 +5,7 @@ description:
 category: goal
 og_title: Learn underwater photography
 og_description:
-og_image: /media/img/goals/2018-01-30-underwaterphotography/green-sea-turtle.jpg
+og_image: /media/img/goals/2018-01-30-uwphotography/green-sea-turtle.jpg
 og_type: website
 ---
 
