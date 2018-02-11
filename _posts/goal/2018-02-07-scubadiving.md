@@ -4,6 +4,10 @@ title: Learn to scuba dive
 description:
 category: goal
 tags:
+og_title: Learn to scuba dive
+og_description:
+og_image: /media/img/goals/2018-02-07-scubadiving/mcknight-diving.jpg
+og_type: website
 ---
 
 <div class="medium-frame">

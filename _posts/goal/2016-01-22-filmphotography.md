@@ -3,6 +3,10 @@ layout: photos
 title: Learn to shoot film
 description: I bought a cheap 35mm to teach myself to shoot film and quickly moved to medium format.
 category: goal
+og_title: Learn to shoot film
+og_description: I bought a cheap 35mm to teach myself to shoot film and quickly moved to medium format.
+og_image: 
+og_type: website
 tags:
 ---
 

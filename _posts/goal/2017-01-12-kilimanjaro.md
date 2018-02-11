@@ -1,8 +1,12 @@
 ---
 layout: photos
 title: Summit Kilimanjaro
-description: Watching the sunrise from 5,895m (19,341ft) was an unforgettable moment.
+description: We left camp just before midnight to reach the 5,895m (19,341ft) summit for the sunrise.
 category: goal
+og_title: Summit Kilimanjaro
+og_description: We left camp just before midnight to reach the 5,895m (19,341ft) summit for the sunrise.
+og_image: /media/img/goals/2017-01-12-kilimanjaro/R0010621.jpg
+og_type: website
 tags:
 ---
 

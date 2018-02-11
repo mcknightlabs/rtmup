@@ -4,6 +4,10 @@ title: When expectations get crushed
 description: Effort cannot always save you, but resiliency will.
 category: goal
 tags:
+og_title: When expectations get crushed
+og_description: Effort cannot always save you, but resiliency will.
+og_image: /media/img/goals/2017-05-22-amtl1/R0011629.jpg
+og_type: website
 ---
 
 The belief that effort and commitment will always save the day was hammered into a lot of us from an early age. But when your expectations get crushed – and it will happen, especially if you are ambitious – how well can you adapt?
