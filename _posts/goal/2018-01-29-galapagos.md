@@ -1,11 +1,11 @@
 ---
 layout: article
 title: Dive the Galápagos
-description: Based on our experiences, I prepared a guide to help make the trip logistcs a little less daunting for others.
+description: Based on our experiences, I prepared a guide to help make the trip logistics a little less daunting for others.
 category: goal
 tags:
 og_title: Dive the Galápagos
-og_description: Based on our experiences, I prepared a guide to help make the trip logistcs a little less daunting for others.
+og_description: Based on our experiences, I prepared a guide to help make the trip logistics a little less daunting for others.
 og_image: /media/img/goals/2018-01-29-galapagos/freediving-joe.jpg
 og_type: website
 ---
@@ -22,7 +22,7 @@ Diving in the Galápagos quickly became one of my top goals after <a href="{% po
 
 Just before the New Year's holiday, my friend Joe and I headed south to explore the islands and <a href="{% post_url goal/2018-01-30-uwphotography %}">document the marine life</a>.
 
-Based on our experiences, I prepared a guide to help make the trip logistcs a little less daunting for others. Have questions? Feel free to DM me on [Twitter](https://twitter.com/rtmup) or [Instagram](https://www.instagram.com/rtmup/). Enjoy.
+Based on our experiences, I prepared a guide to help make the trip logistics a little less daunting for others. Have questions? Feel free to DM me on [Twitter](https://twitter.com/rtmup) or [Instagram](https://www.instagram.com/rtmup/). Enjoy.
 
 ## Know before you go
 * Book your hotel in advance using a site like Bookings.com. In addition to online reviews, we considered details like proximity to the main pier, restaurants, and dive shops.
@@ -181,7 +181,6 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 * Snorkeled at Isabela in the morning. Saw an octopus, Green Sea Turtle, and a baby sea lion nursing.
 * Took the ferry back to Santa Cruz in the afternoon
-* Ate dinner at Isla Grill. I got the Choripan and substituted veggies for fries.
 
 <div class="small-frame">
 	<figure>
