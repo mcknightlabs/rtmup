@@ -6,7 +6,7 @@ category: goal
 tags:
 og_title: Land a job at a startup company
 og_description: Without any connections, I turned myself into a startup employee in 2013.
-og_image: /media/img/goals/2018-02-05-startupjob/id-dupont.jpg
+og_image: /media/img/goals/2018-02-05-startupjob/watch-2.jpg
 og_type: website
 ---
 
