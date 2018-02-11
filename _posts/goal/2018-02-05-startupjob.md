@@ -1,12 +1,31 @@
 ---
 layout: article
 title: Land a job at a startup company
-description: Without any connections, I turned myself into a startup employee.
+description: Without any connections, I turned myself into a startup employee in 2013.
 category: goal
 tags:
+og_title: Land a job at a startup company
+og_description: Without any connections, I turned myself into a startup employee in 2013.
+og_image: /media/img/goals/2018-02-05-startupjob/id-dupont.jpg
+og_type: website
 ---
 
-While researching Internet governance during grad school at LSE, I came across the backstories of high-achieving startup founders like Elon Musk and Jeff Bezos. I was awestruck and inspired; it seemed like these people were actually moving the needle, creating meaningful change.
+<div class="medium-frame">
+	<figure>
+		<img src="{{ site.github.url }}/media/img/goals/2018-02-05-startupjob/watch-2.jpg">
+		<figcaption>Gift from the Industry Dive founders for my five years of service to the company.</figcaption>
+	</figure>
+</div>
+
+This week marked my fifth year working full-time at Industry Dive.
+
+And what an adventure it has been – from our small office in Dupont to a 50+ person company in Chinatown to a 100+ employee company in McPherson, two blocks from the White House.
+
+How did it all begin? Here's a quick look back describing how and why I joined the Dive team during the startup phase.
+
+<hr>
+
+**Rewind to late 2011.** While researching Internet governance during grad school at LSE, I came across the backstories of high-achieving startup founders like Elon Musk and Jeff Bezos. I was awestruck and inspired; it seemed like these people were actually moving the needle, creating meaningful change.
 
 I wanted in. I wanted to help build something of value. 
 
@@ -49,3 +68,10 @@ On January 8th, 2013, I signed a six-month contract.
 I was in. 
 
 At the age of tweny-three, I had landed a job at a startup
+
+<div class="medium-frame">
+	<figure>
+		<img src="{{ site.github.url }}/media/img/goals/2018-02-05-startupjob/id-dupont.jpg">
+		<figcaption>Industry Dive's Dupont office in early 2013.</figcaption>
+	</figure>
+</div>
