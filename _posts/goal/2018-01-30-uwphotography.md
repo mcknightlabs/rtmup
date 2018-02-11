@@ -5,13 +5,13 @@ description:
 category: goal
 og_title: Learn underwater photography
 og_description:
-og_image: /media/img/goals/2018-01-30-uwphotography/green-sea-turtle.jpg
+og_image: /media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg
 og_type: website
 ---
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-sea-turtle.jpg">
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg">
 		<figcaption>Diving in the Galápagos, January 2018</figcaption>
 	</figure>
 </div>
@@ -122,7 +122,7 @@ After fixing the smudges, bubbles, and distortion, I finally started capturing s
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/black-salemas-2.jpg">
 	</figure>
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-sea-turtle-2.jpg">
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle-2.jpg">
 	</figure>
 </div>
 
