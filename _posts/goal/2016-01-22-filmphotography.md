@@ -5,7 +5,7 @@ description: I bought a cheap 35mm to teach myself to shoot film and quickly mov
 category: goal
 og_title: Learn to shoot film
 og_description: I bought a cheap 35mm to teach myself to shoot film and quickly moved to medium format.
-og_image: 
+og_image: /media/img/photography/film/120/mamiya6/000015360007.jpg
 og_type: website
 tags:
 ---
@@ -24,9 +24,9 @@ After sharing some of these photos with a friend from film school, he told me to
 
 Soon after purchasing it, the Mamiya stopped working. I quickly deduced that the shutter curtain and another part were getting jammed. Using diagrams of the camera I found online, I dismantled it, fixed the jam, and put all of the parts back together.
 
-Check out some of my 35 shots <a href="/photos/2017/07/24/35.html">in this gallery</a>.
+Check out some of my 35 shots <a href="{% post_url photo-video/2017-07-24-35 %}">in this gallery</a>.
 
-Check out some of my 120 shots <a href="/photos/2017/07/24/120.html">in this gallery</a>.
+Check out some of my 120 shots <a href="{% post_url photo-video/2017-07-24-120 %}">in this gallery</a>.
 
 ## How to Get Started Yourself
 
