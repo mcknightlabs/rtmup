@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Learn to scuba dive
-description:
+description: The Pennsylvania spring water was as cold as you might expect in September.
 category: goal
 tags:
 og_title: Learn to scuba dive

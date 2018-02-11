@@ -1,10 +1,10 @@
 ---
 layout: article
 title: Learn underwater photography
-description:
+description: After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery.
 category: goal
 og_title: Learn underwater photography
-og_description: Even with a lot of prior photography experience, this was challenging.
+og_description: After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery.
 og_image: /media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg
 og_type: website
 ---
@@ -109,7 +109,7 @@ Around day four, I discovered that the e-stabilization feature of the GH5 was ca
 
 **The end result**
 
-After fixing the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below. Video forth-coming.
+After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below. Video forth-coming.
 
 <div class="medium-frame">
 	<figure>
