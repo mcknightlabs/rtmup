@@ -3,12 +3,15 @@ layout: article
 title: Learn underwater photography
 description:
 category: goal
-tags:
+og_title: Learn underwater photography
+og_description:
+og_image: /media/img/goals/2018-01-30-underwaterphotography/green-sea-turtle.jpg
+og_type: website
 ---
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-underwaterphotography/green-sea-turtle.jpg">
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-sea-turtle.jpg">
 		<figcaption>Diving in the Galápagos, January 2018</figcaption>
 	</figure>
 </div>
