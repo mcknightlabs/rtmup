@@ -1,9 +1,13 @@
 ---
 layout: article
 title: Dive the Galápagos
-description: I prepared a Galápagos guide, based on our experiences, to help you with the logistics of your own trip.
+description: Based on our experiences, I prepared a guide to help make the trip logistcs a little less daunting for others.
 category: goal
 tags:
+og_title: Dive the Galápagos
+og_description: Based on our experiences, I prepared a guide to help make the trip logistcs a little less daunting for others.
+og_image: /media/img/goals/2018-01-29-galapagos/freediving-joe.jpg
+og_type: website
 ---
 
 <div class="medium-frame">
