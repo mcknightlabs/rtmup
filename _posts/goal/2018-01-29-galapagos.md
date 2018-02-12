@@ -50,8 +50,8 @@ Based on our experiences, I prepared a guide to help make the trip logistics a l
 * Puerto Ayora’s main grocery story, which sells essentials like TP, is west of the pier. There are several other shops selling similar goods scattered throughout the area.
 
 ## Meals
-* There are lots of restaurants that open up for dinner along ... Everyone dines outside together. The atmosphere is great. Soak it in at least once.
-* **Galápagos Deli** – This is a great place for breakfast. A tip from watching locals – save some of the bread they give you – it's a lot – and make a breakfast sandwich with it.
+* There are lots of restaurants along Charles Binford Ave. On most nights, there were about 75-100 people eating at tables in the middle of the street. The atmosphere was great.
+* **Galápagos Deli** – This place is great for breakfast. A tip from watching locals – save some of the bread they give you – it's a lot – and make a breakfast sandwich with it.
 * **Isla Grille** – This was our go-to lunch and dinner spot. The wifi was hard to beat anywhere else on Santa Cruz. There was also a decent pizza place next door.
 
 ## Coffee (nothing amazing)
