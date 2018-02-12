@@ -85,13 +85,6 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 * Walked around and learned the area a bit
 * Started getting quotes on diving and/or snorkeling trips
 
-<div class="small-frame">
-	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-29-galapagos/2017-12-31-3.jpg">
-		<figcaption>German Beach on Santa Cruz, Galápagos, January 2018</figcaption>
-	</figure>
-</div>
-
 **Day 3 – Friday**
 
 * Snorkeled in the AM near the Charles Darwin Research Station, and saw a large Green Sea Turtle
