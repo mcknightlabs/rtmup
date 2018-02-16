@@ -10,9 +10,9 @@ og_type: website
 ---
 
 <div class="medium-frame">
-	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg">
-		<figcaption>Diving in the Galápagos, January 2018</figcaption>
+		<figure>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/3zzmpjuzBCE' frameborder='0' allowfullscreen></iframe></div>
+	<figcaption>Recorded in the Galápagos, January 2018</figcaption>
 	</figure>
 </div>
 
@@ -112,6 +112,9 @@ Around day four, I discovered that the e-stabilization feature of the GH5 was ca
 After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below. Video forth-coming.
 
 <div class="medium-frame">
+	<figure>
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg">
+	</figure>
 	<figure>
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/joe.jpg">
 	</figure>
