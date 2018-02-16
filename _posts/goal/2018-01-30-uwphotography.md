@@ -71,7 +71,7 @@ For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum &
 
 I received the gear just in time – a few days before I flew out.
 
-<div class="medium-frame">
+<div class="small-frame">
 	<figure>
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/housing.jpg">
 	</figure>
