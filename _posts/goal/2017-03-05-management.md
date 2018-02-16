@@ -22,15 +22,13 @@ Over the next few years, the pace of growth at the company did not change – we
 
 The transactional perspective with which I began shifted to a focus on individual and team development.
 
-Sure, being able to effectively delegate and oversee a bunch of tasks and projects is important. But that is all transactional, and, in my mind, not good enough. Just knocking out lots of "wins" for the company has never made me feel like a great manager.
+Somewhere along the line, I decided that effectively delegating tasks and knocking out lots of "wins" for the company did not make me a better manager.
 
-The only time I have felt like a great manager was when I led others in such a way that I earned my own respect.
+What made me feel like a better manager were hard-earned habits like being the last to speak in my team's meetings, working hard to align my team members' interests with their project assignments, and leaving my personal problems at the office door.
 
-These were times when I felt I exhibited temperance, self-awareness, and successfully prioritized the interests of others over my own. 
+Adhering to approaches like these demands a significant amount of mental effort and attention. There are no shortcuts.
 
-Consistently living out these qualities is obviously difficult and something with which I continually struggle. There are no shortcuts. It takes a lot of mental effort.
-
-Below are a few questions I have used over the years to self-assess and reflect on ways I can improve.
+Below are a few questions I use to routinely self-assess and reflect on ways I can improve.
 
 ### Am I letting personal problems influence how I treat my work and team?
 This is number one on my list, because I find it the most difficult.
@@ -45,12 +43,7 @@ This is number one on my list, because I find it the most difficult.
 I try to take a proactive approach to <a href="{% post_url tech-design/2016-08-17-burnout %}">preventing burnout</a>. To effectively lead others, I know I must first take care of myself. If I am not at the top of my game, how can I expect to inspire or guide others toward theirs?
 
 ### Am I reacting or responding?
-<ul>
-	<li><strong>Never react, respond.</strong> It is easy to look like a fool, damage a personal or professional relationship, or make a technical mistake if you let your emotions control your actions. A lot of variables can make this difficult: you might be tired and stressed, the other party might be frustrated or angry and already reacting, the other party might have made a careless mistake for the nth time, maybe someone – even you – messed up and you want to fix the issue ASAP. To avoid reacting, I try to <a href="https://hbr.org/tip/2017/03/quiet-your-mind-to-avoid-making-impulsive-decisions">limit my multi-tasking</a>, get adequate sleep, and pause before responding.</li>
-	<li><strong>Respond quickly but not too quickly.</strong> I try to respond as soon as I can emotionally divorce myself from the issue. Sometimes I also need to wait for the other party to calm down and will literally ask myself – "Is now the best time to respond?"</li>
-	<li><strong>Never assume. Start by asking questions and listening.</strong> A given problem can easily get worse if you act with an information deficit or false assumptions. I often talk to numerous stakeholders to obtain clarity on an issue.</li>
-	<li><strong>Be open and direct.</strong> When responding to a serious problem or if someone is clearly upset, I tend to avoid written communication. This means I hold off on any emails, IMs, and texts. I have found that written words can be more easily misinterpreted than spoken ones. Open and direct in-person talks or a phone call are my first preference for responding to an issue. I then use an email to clarify and follow up on a verbal discussion.</li>
-</ul>
+It is easy to look like a fool, damage a personal or professional relationship, or make a technical mistake if you let emotions take control. To avoid reacting, I try to <a href="https://hbr.org/tip/2017/03/quiet-your-mind-to-avoid-making-impulsive-decisions">limit my multi-tasking</a>, get six or more hours of sleep, and pause before responding. I respond as soon as I can emotionally divorce myself from an issue. When addressing a serious problem, or if someone is clearly upset, I prefer to avoid written communication – e.g. emails, IMs, and texts. I have found that written words can be more easily misinterpreted than spoken ones. Open and direct in-person talks or a phone call are my go-to methods. I then use an email to clarify and follow up on a verbal discussion.
 
 ### How much am I complaining?
 "Ugh. I hate designing emails. I have to support five versions of Outlook!" Imagine if I made a comment like that in front of my team and then, weeks later, had to train them to do this very task and face these very issues. They are going to walk into the training session with a biased view and expect to hate any related assignment. I am setting up them and myself, as a manager, for failure. Rather than voice serious complaints in front of my team, I do my best to deal with them silently or find actual solutions.
@@ -63,9 +56,7 @@ I make it a point to never become close friends with anyone whom I have the abil
 
 <hr>
 
-Building upon my own self-assessments, I have established management strategies related to two other areas – individuals and the team.
-
-## Team development
+## Employee and team development
 
 ### Hire the right people
 
