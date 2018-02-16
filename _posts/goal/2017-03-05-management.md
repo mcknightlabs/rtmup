@@ -18,11 +18,9 @@ More sleep. A real vacation. Less stress. That's what management meant to me in 
 
 When I first became a manager, it was out of necessity. I needed help. At the time, I was the only designer at Industry Dive, a B2B media <a href="http://joel.is/your-startup-is-a-rocket-ship/">rocket ship</a>, and the projects were hitting my inbox faster than I could read the requests. So I made my first hire, and my quality of life improved.
 
-Over the next few years, the pace of growth at the company did not change – we continued to see huge sales and personnel gains – but my view of management continuously evolved.
+Then I started to grow. The transactional perspective with which I began slowly shifted to one focused more on individual and team development.
 
-The transactional perspective with which I began shifted to a focus on individual and team development.
-
-Somewhere along the line, I decided that effectively delegating tasks and knocking out lots of "wins" for the company did not make me a better manager.
+Somewhere along the line, I realized that effectively delegating tasks and knocking out lots of "wins" for the company did not make me a better manager.
 
 What made me feel like a better manager were hard-earned habits like being the last to speak in my team's meetings, working hard to align my team members' interests with their project assignments, and leaving my personal problems at the office door.
 
