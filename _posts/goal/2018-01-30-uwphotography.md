@@ -36,20 +36,20 @@ About two weeks before my trip, I came across 4K footage shot on a [Panasonic GH
 
 Here are a few features that stood out:
 
-* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and partical-filled water.
+* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and particle-filled water.
 * **Records 4K in 60FPS:** The underwater world is a fast moving one. The relatively high frame rate of 60FPS means you can obtain a natural looking, slow-motion image in post-production.
 * **Records a flat image profile:** A flat image profile helps you grade the footage – e.g. pull highlights or push exposure – in post-production, without it falling apart.
-* **20MP sensor:** With a decent sensor, you can capture high-quality stills, in addition to video.
+* **20MP still sensor:** You can capture high-quality stills in addition to the 4K video. 
 
 I decided to go all in.
 
 I listed my XT-1 kit for sale and quickly ordered a used GH5 and wide lens.
 
-Next, I focused on finding a housing. 
+Next, I focused on finding a housing.
 
 Underwater photography is a niche market, so there were only three brands from which I could compare and select – [Nauticam](https://www.nauticam.com/products/na-gh5-housing-for-panasonic-lumix-gh5-camera), [Aquatica](http://www.aquatica.ca/en/products_dslr_agh5.html), and [Ikelite](https://www.ikelite.com/products/200dl-underwater-housing-for-panasonic-lumix-gh5-mirrorless-micro-four-thirds-cameras).
 
-I read a number of stories about Ikelite housings flooding and decided to write off that one.
+I read a number of stories about Ikelite housings flooding and decided to write off that company.
 
 The Nauticam housing seemed to have the best reputation, but the prices were sky high.
 
@@ -59,19 +59,25 @@ This also turned into a problem.
 
 When I tried to order the housing from [Backscatter](https://www.backscatter.com/), one of the leading underwater photography shops in the States, they said they were waiting on the next shipment from the manufacturer. They did not know when this would be.
 
-No worries, I thought, I'll just go down the list. I proceeded to contact several other vendors.
+I proceeded to contact several other vendors.
 
 No one had the housing in stock.
 
 My next move was to contact the manufacturer in Canada.
 
-A representative from Aquatica told me the next batch of housings was arriving from the paint shop within a few days. I offered to pay extra to have it overnighted, via Backscatter, to DC. Even with this extra expense, the overall price remained significantly cheaper than the Nauticam.
+A representative from Aquatica informed me that the next batch of housings was arriving from the paint shop within a few days. I offered to pay extra to have a unit overnighted, via Backscatter, to DC. Even with this extra expense, the overall price remained significantly cheaper than the Nauticam.
 
-For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vaccum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
+For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vaccum became compromised or the moisture sensor detected water while on a dive, an audible alarm would sound and a bright red LED would flash.
 
 I received the gear just in time – a few days before I flew out.
 
-To test the housing, I filled the bath and submerged the unit, sans camera. Seemed fine after fifteen minutes.
+<div class="medium-frame">
+	<figure>
+		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/housing.jpg">
+	</figure>
+</div>
+
+To test the housing, I filled a bath and submerged the unit, sans camera. Seemed fine after fifteen minutes.
 
 Once in the Galápagos, I tested the housing again – this time at a greater depth.
 
@@ -122,8 +128,3 @@ After eliminating the smudges, bubbles, and distortion, I finally started captur
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle-2.jpg">
 	</figure>
 </div>
-
-
-
-
-
