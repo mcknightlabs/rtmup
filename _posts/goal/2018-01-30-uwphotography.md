@@ -30,9 +30,7 @@ I initially thought about shooting with my Fuji XT-1, but a quick search reveale
 
 Inspired by watching the BBC's Blue Planet series, I started looking at new cameras capable of shooting 4K video.
 
-On the high end of the market were setups like RED and ARRI. On the low end were DSLRs.
-
-I knew I wanted something that had a decent dynamic range and could shoot flat color profiles. But, I was not willing to break the bank; cameras depreciate as fast as phones.
+On the high end of the market were brands like RED and ARRI. Unfortunately, cameras depreciate as fast as phones, so I ruled out the best equipment and started looking at more affordable mirrorless options.
 
 About two weeks before my trip, I came across 4K footage shot on a [Panasonic GH5](https://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5). Compared to the competition under $10,000, it blew me away.
 
@@ -47,11 +45,7 @@ I decided to go all in.
 
 I listed my XT-1 kit for sale and quickly ordered a used GH5 and wide lens.
 
-Next, I focused on finding a housing.
-
-That is when things got complicated.
-
-What brand is the best? What lens will work with what housing? What additional parts – e.g. zoom ring, port, and adapter – do I need to use with a given lens? I spent a lot of hours trying to piece together a clear picture of my options. 
+Next, I focused on finding a housing. 
 
 Underwater photography is a niche market, so there were only three brands from which I could compare and select – [Nauticam](https://www.nauticam.com/products/na-gh5-housing-for-panasonic-lumix-gh5-camera), [Aquatica](http://www.aquatica.ca/en/products_dslr_agh5.html), and [Ikelite](https://www.ikelite.com/products/200dl-underwater-housing-for-panasonic-lumix-gh5-mirrorless-micro-four-thirds-cameras).
 
@@ -73,7 +67,7 @@ My next move was to contact the manufacturer in Canada.
 
 A representative from Aquatica told me the next batch of housings was arriving from the paint shop within a few days. I offered to pay extra to have it overnighted, via Backscatter, to DC. Even with this extra expense, the overall price remained significantly cheaper than the Nauticam.
 
-For extra peace-of-mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vaccum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
+For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vaccum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
 
 I received the gear just in time – a few days before I flew out.
 
