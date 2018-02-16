@@ -710,8 +710,6 @@ header {
     margin: 0 auto 4rem auto; } }
 article p, article ul, article ol, article h1, article h2, article h3, article h4, article h5, article blockquote, article figcaption {
   padding: 0 0.9375rem; }
-article .embed-container, article iframe {
-  margin: 0 auto 2rem auto; }
 article ul, article ol {
   margin-left: 1.5rem; }
 article th, article td {
