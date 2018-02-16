@@ -109,7 +109,7 @@ Around day four, I discovered that the e-stabilization feature of the GH5 was ca
 
 **The end result**
 
-After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below. Video forth-coming.
+After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below.
 
 <div class="medium-frame">
 	<figure>
