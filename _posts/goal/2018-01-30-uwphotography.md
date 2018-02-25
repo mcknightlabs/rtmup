@@ -26,24 +26,22 @@ This meant I needed to learn underwater photography and purchase or rent the nec
 
 Hoping to travel light, my friend opted to buy a [SeaLife DC2000](https://www.bhphotovideo.com/c/product/1294161-REG/sealife_sl746_dc2000_camera_pro_duo.html) combo package with a 20MP digital camera, tray, and lights. (Note: This camera turned out to be a total disaster.)
 
-I initially thought about shooting with my Fuji XT-1, but a quick search revealed no available housings. 
+I initially thought about shooting with my Fuji XT-1, but I could not find any professional housings for that model. 
 
-After a couple weeks of research, I settled on an Olympus E-M5 Mark II, bundled with a housing. When the unit arrived, I was surprised by how large – and not great for traveling – it was. I also realized I would need to buy a tray and handles before using it underwater. In my mind, any additional investments in this camera setup were not worth it, especially since the Mark II only shot 1080p HD – not 4K (essentially the standard in 2017).
+A couple weeks of research later, I settled on an Olympus E-M5 Mark II, bundled with a housing. When the unit arrived, I was surprised by how large – and not great for traveling – it was. I also realized I would need to buy a tray and handles before using it underwater. This was a deal breaker. In my mind, any additional investments in this Olympus setup were not worth it, especially since the Mark II only shot 1080p HD – not 4K (the standard in 2017).
 
-As I put the Mark II back in the mail to return to the seller, I thought about how little time was left before my trip – less than three weeks. I needed to make another decision ASAP.
+As I put the Mark II back in the mail to return to the seller, I thought about how little time was left before my trip – less than three weeks. I needed to find an alternative camera ASAP.
 
 Inspired by watching the BBC's Blue Planet series, I began to look at cameras capable of shooting 4K video.
 
-On the high end of the market were brands like RED and ARRI. Unfortunately, cameras depreciate as fast as phones, so I ruled out the best equipment and started to review affordable mirrorless options.
+On the high end of the market were brands like RED and ARRI. Unfortunately, cameras depreciate as fast as phones, so I ruled out the best equipment and started to review more affordable mirrorless options.
 
-About two weeks before my trip, I came across Red Sea underwater footage shot on a [Panasonic GH5](https://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5). Compared to the competition under $10,000, it blew me away.
+One of those options was the [Panasonic GH5](https://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5). Several of the features of this camera grabbed my attention.
 
-Here are a few features that stood out:
-
-* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and particle-filled water.
+* **Fast autofocus:** Fish do not like to sit still. Forget about focusing manually underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and particle-filled water.
 * **Records 4K in 60FPS:** The underwater world is a fast moving one. The relatively high frame rate of 60FPS means you can obtain a natural looking, slow-motion image in post-production.
 * **Records a flat image profile:** A flat image profile helps you grade the footage – e.g. pull highlights or push exposure – in post-production, without it falling apart.
-* **20MP still sensor:** You can capture high-quality stills in addition to the 4K video. 
+* **20MP still sensor:** A decent sensor size means you can capture high-quality stills in addition to the 4K video. 
 
 I decided to go for it.
 
@@ -75,7 +73,7 @@ For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum &
 
 I received the gear just in time – a few days before I flew out.
 
-To test the housing, I filled the bath, created a vacuum and submerged the unit, sans camera. Seemed fine after fifteen minutes.
+To test the housing, I filled the bath, created a vacuum, and submerged the unit, sans camera. Seemed fine after fifteen minutes.
 
 <div class="small-frame">
 	<figure>
@@ -89,7 +87,7 @@ Then I tried it with the GH5 inside. It worked, but I soon encountered problems.
 
 **Problem 1: Spots on the dome port** 
 
-When I checked my video clips from the first day, it quickly became apparent. none of it was worth keeping.
+When I checked my video clips from the first day, it quickly became apparent that none of it was worth keeping.
 
 A few smudges on the port had ruined every shot.
 
@@ -97,7 +95,7 @@ I reformatted the card, wiping all of the data, and made sure I had [Zeiss wipes
 
 **Problem 2: Bubbles on the port** 
 
-Before entering the Pacific the next morning, I thoroughly cleaned the port with a Zeiss wipe. I also poured some water mixed with baby shampoo over the dome (same as what you would use to prevent a mask from fogging). 
+Before entering the Pacific the next morning, I thoroughly cleaned the port with a Zeiss wipe. I also poured some water mixed with baby shampoo over the dome (same technique you would use to keep a mask from fogging). 
 
 When I reviewed the footage later that evening, I was surprised to see tiny dots all over the port. Most of my shots were, again, unusable.
 
@@ -115,15 +113,15 @@ Around day four, I discovered that the e-stabilization feature of the GH5 was ca
 
 Along with solving the above problems, I also learned a bit about underwater camera housing maintenance.
 
-1. *Always rinse after using in saltwater*
+1. Always rinse after using in saltwater
 
 Washing the housing with fresh water as soon as you return from a dive is key. Often, your dive boat will have a camera "dunk tank." If it does not – as I encountered in the Galápagos several times – you need to have your own fresh water handy. In Ecuador, I brought a 3L jug of water for this purpose.
 
 After returning to my hotel each day, I took the housing into the shower and thoroughly rinsed it again.
 
-2. *Check your o-rings*
+2. Check your o-rings
 
-The housing o-rings provide watertight seals around various housing components – e.g. the housing door. You have to make sure these are always properly greased and replace them when they crack. I used credit cards to remove them for inspection. Worked well.
+The housing o-rings provide watertight seals around various housing components – e.g. the housing door. You have to make sure these are always properly greased, that they are not compromised by sand or other debris, and replace them when they crack. I used credit cards to remove them for inspection. Worked well.
 
 **The final result**
 
