@@ -16,7 +16,7 @@ og_type: website
 	</figure>
 </div>
 
-After earning my PADI Open Water, Advanced, and Freediving certifications in the latter half of 2017, I set a goal of visiting two of the world's top diving locations within a year.
+After earning my <a href="{% post_url goal/2018-02-07-scubadiving %}">PADI Open Water, Advanced, and Freediving certifications</a> in the latter half of 2017, I set a goal of visiting two of the world's top diving locations within a year.
 
 First up was the <a href="{% post_url goal/2018-01-29-galapagos %}">Galápagos</a>. I contacted one of my buddies from film school and planned a two week trip over the 2017-18 New Year's holiday.
 
