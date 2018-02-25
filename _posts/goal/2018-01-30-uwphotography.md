@@ -24,7 +24,7 @@ With film and photography backgrounds, we both desired to visually document our 
 
 This meant I needed to learn underwater photography and purchase or rent the necessary equipment.
 
-Hoping to travel light, my friend opted to buy a [SeaLife DC2000](https://www.bhphotovideo.com/c/product/1294161-REG/sealife_sl746_dc2000_camera_pro_duo.html) combo package with a 20MP digital camera, tray, and lights (this camera turned out to be a total disaster.
+Hoping to travel light, my friend opted to buy a [SeaLife DC2000](https://www.bhphotovideo.com/c/product/1294161-REG/sealife_sl746_dc2000_camera_pro_duo.html) combo package with a 20MP digital camera, tray, and lights (this camera turned out to be a total nightmare).
 
 I initially thought about shooting with my Fuji XT-1, but I could not find any professional housings for that model. 
 
