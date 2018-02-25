@@ -26,22 +26,26 @@ This meant I needed to learn underwater photography and purchase or rent the nec
 
 Hoping to travel light, my friend opted to buy a [SeaLife DC2000](https://www.bhphotovideo.com/c/product/1294161-REG/sealife_sl746_dc2000_camera_pro_duo.html) combo package with a 20MP digital camera, tray, and lights. (Note: This camera turned out to be a total disaster.)
 
-I initially thought about shooting with my Fuji XT-1, but a quick search revealed no available housings.
+I initially thought about shooting with my Fuji XT-1, but a quick search revealed no available housings. 
 
-Inspired by watching the BBC's Blue Planet series, I started looking at new cameras capable of shooting 4K video.
+After a couple weeks of research, I settled on an Olympus E-M5 Mark II, bundled with a housing. When the unit arrived, I was suprised by how large – and not great for traveling – it was. I also realized I would need to buy a tray and handles before using it underwater. In my mind, any additional investments in this camera setup were not worth it, especially since the Mark II only shot 1080p HD – not 4K (essentially the standard in 2017).
 
-On the high end of the market were brands like RED and ARRI. Unfortunately, cameras depreciate as fast as phones, so I ruled out the best equipment and started looking at more affordable mirrorless options.
+As I put the Mark II back in the mail to return to the seller, I thought about how little time was left before my trip – less than three weeks. I needed to make another decision ASAP.
 
-About two weeks before my trip, I came across 4K footage shot on a [Panasonic GH5](https://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5). Compared to the competition under $10,000, it blew me away.
+Inspired by watching the BBC's Blue Planet series, I began to look at cameras capable of shooting 4K video.
+
+On the high end of the market were brands like RED and ARRI. Unfortunately, cameras depreciate as fast as phones, so I ruled out the best equipment and started to review affordable mirrorless options.
+
+About two weeks before my trip, I came across Red Sea underwater footage shot on a [Panasonic GH5](https://www.amazon.com/PANASONIC-Mirrorless-Camera-Megapixels-DC-GH5KBODY/dp/B01MZ3LQQ5). Compared to the competition under $10,000, it blew me away.
 
 Here are a few features that stood out:
 
-* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and partical-filled water.
+* **Fast autofocus:** Fish do not like to sit still. Forget about rack focusing underwater. Even if you wanted to try, manual focusing is not possible with most housings. Also, think about how difficult it can be to handle focusing on land; now throw in a mask and particle-filled water.
 * **Records 4K in 60FPS:** The underwater world is a fast moving one. The relatively high frame rate of 60FPS means you can obtain a natural looking, slow-motion image in post-production.
 * **Records a flat image profile:** A flat image profile helps you grade the footage – e.g. pull highlights or push exposure – in post-production, without it falling apart.
 * **20MP sensor:** With a decent sensor, you can capture high-quality stills, in addition to video.
 
-I decided to go all in.
+I decided to go for it.
 
 I listed my XT-1 kit for sale and quickly ordered a used GH5 and wide lens.
 
@@ -67,19 +71,19 @@ My next move was to contact the manufacturer in Canada.
 
 A representative from Aquatica told me the next batch of housings was arriving from the paint shop within a few days. I offered to pay extra to have it overnighted, via Backscatter, to DC. Even with this extra expense, the overall price remained significantly cheaper than the Nauticam.
 
-For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vaccum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
+For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vacuum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
 
 I received the gear just in time – a few days before I flew out.
 
-To test the housing, I filled the bath and submerged the unit, sans camera. Seemed fine after fifteen minutes.
+To test the housing, I filled the bath, created a vacuum and submerged the unit, sans camera. Seemed fine after fifteen minutes.
 
 Once in the Galápagos, I tested the housing again – this time at a greater depth.
 
-Then I tried it with the GH5 inside.
+Then I tried it with the GH5 inside. It worked, but I soon encountered problems.
 
 **Problem 1: Spots on the dome port** 
 
-When I checked my video clips from the first day, I quickly realized none of it was worth keeping.
+When I checked my video clips from the first day, it quickly became apparent. none of it was worth keeping.
 
 A few smudges on the port had ruined every shot.
 
@@ -99,11 +103,21 @@ The biggest video quality issue of the trip was completely out of my control. On
 
 **Problem 4: E-stabilization**
 
-Around day four, I discovered that the e-stabilization feature of the GH5 was causing severe distortion around the edges of some of my shots. Turning this feature off solved the issue.
+Around day four, I discovered that the e-stabilization feature of the GH5 was causing severe distortion around the edges of some of my video shots. Turning this feature off solved the issue.
 
-**The end result**
+**Housing maintenace**
 
-After eliminating the smudges, bubbles, and distortion, I finally started capturing some decent imagery. Photos below.
+Along with solving the above problems, I also learned a bit about underwater camera housing maintenance.
+
+1. *Always rinse after using in saltwater*
+
+Washing the housing with freshwater as soon as you return from a dive is key. Often, your dive boat will have a camera "dunk tank." If it does not – as I encountered in the Galápagos several times – you need to have your own fresh water handy. In Ecuador, I brought a 3L jug of water for this purpose.
+
+After returning to my hotel, I would take the housing into the shower and thoroughly rinse it again.
+
+2. *Check your o-rings*
+
+The housing o-rings provide watertight seals around various housing components – e.g. the housing door. You have to make sure these are always properly greased and replace them when they crack. I used credit cards to remove them for inspection. Worked well.
 
 <div class="medium-frame">
 	<figure>
@@ -122,8 +136,3 @@ After eliminating the smudges, bubbles, and distortion, I finally started captur
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle-2.jpg">
 	</figure>
 </div>
-
-
-
-
-
