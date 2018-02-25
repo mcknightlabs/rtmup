@@ -126,6 +126,10 @@ After returning to my hotel each day, I took the housing into the shower and tho
 
 The housing o-rings provide watertight seals around various housing components – e.g. the housing door. You have to make sure these are always properly greased and replace them when they crack. I used credit cards to remove them for inspection. Worked well.
 
+**The final result**
+
+The video at the top of the post and the photos below are from my first two weeks shooting underwater. To see imagery from future trips, follow me on [Instagram](https://www.instagram.com/rtmup/).
+
 <div class="medium-frame">
 	<figure>
 		<img src="{{ site.github.url }}/media/img/goals/2018-01-30-uwphotography/green-seaturtle.jpg">
