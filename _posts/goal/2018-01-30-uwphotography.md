@@ -99,7 +99,7 @@ Before entering the Pacific the next morning, I thoroughly cleaned the port with
 
 When I reviewed the footage later that evening, I was surprised to see tiny dots all over the port. Most of my shots were, again, unusable.
 
-Eventually, I determined that these dots were air bubbles. To remove them, I needed to waive my hand in front of the port each time I got in the water.
+Eventually, I determined that these dots were air bubbles. To remove them, I needed to wave my hand in front of the port each time I got in the water.
 
 **Problem 3: Poor visibility**
 
