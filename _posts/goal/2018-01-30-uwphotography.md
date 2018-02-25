@@ -71,7 +71,6 @@ My next move was to contact the manufacturer in Canada.
 
 A representative from Aquatica informed me that the next batch of housings was arriving from the paint shop within a few days. I offered to pay extra to have a unit overnighted, via Backscatter, to DC. Even with this extra expense, the overall price remained significantly cheaper than the Nauticam.
 
-<<<<<<< HEAD
 For extra peace of mind, I also purchased the add-on [Aquatica SURVEYOR vacuum & moisture sensor system](http://aquatica.ca/en/accessories_surveyor.html). Before entering the water, I could turn on a moisture sensor inside the housing and pump out the air to form a vacuum. If the vacuum became compromised or the moisture sensor detected water while on the dive, an audible alarm would sound and a bright red LED would flash.
 
 I received the gear just in time – a few days before I flew out.
