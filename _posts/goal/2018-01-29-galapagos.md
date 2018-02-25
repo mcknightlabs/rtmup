@@ -51,8 +51,8 @@ Based on our experiences, I prepared a guide to help make the trip logistics a l
 
 ## Meals
 * There are lots of restaurants along Charles Binford Ave. On most nights, there were about 75-100 people eating at tables in the middle of the street. The atmosphere was great.
-* **Galápagos Deli** – This place is great for breakfast. A tip from watching locals – save some of the bread they give you – it's a lot – and make a breakfast sandwich with it.
-* **Isla Grille** – This was our go-to lunch and dinner spot. The wifi was hard to beat anywhere else on Santa Cruz. There was also a decent pizza place next door.
+* **Galápagos Deli** – This place is great for breakfast. A tip from watching locals... If you order a meal with eggs, save some of the bread they give you – it's a lot – and make a breakfast sandwich with it.
+* **Isla Grille** – This was our go-to lunch and dinner spot. The wifi was hard to beat anywhere else on Santa Cruz (only took 30 seconds to upload a photo to Instagram). There was also a decent pizza place next door.
 
 ## Coffee (nothing amazing)
 * OMG Coffee – Decent lattes and café con leches
@@ -61,15 +61,15 @@ Based on our experiences, I prepared a guide to help make the trip logistics a l
 ## Diving and snorkeling pricing
 The following prices are from January 2018.
 
-* **Academy Diving** – $170 for most 2-dive trips, $120-30 for trip with 2-3 snorkels
-* **Natural Selection** – $130 for 2-3 snorkels (8AM-4PM) at Pinzón. No trips offered to Isabela.
-* **Galápagos Dreams Adventures** – $100 for Isabela snorkel tour (7AM-4PM). $165 for 2-dive trips. Every day.
+* **Academy Diving** – $170 for 2-dive day trip, $120-30 for 2-snorkel day trip.
+* **Natural Selection** – $130 for 2-snorkel day trip (8AM-4PM) at Pinzón. No trips offered to Isabela.
+* **Galápagos Dreams Adventures** – $100 for Isabela snorkel day trip (7AM-4PM). $165 for 2-dive day trip. Every day.
 * **Ninfa Tour** – $130 for day trip to Isabela that included snorkeling and other activities. $100 for 2-snorkel trip to Santa Fe. No diving offered.
 * **Albatros Diving** – $180 for 2-dive trip to Seymour. Overall limited availability.
 * **Nauti Diving** – $180 for 2-dive trip to Daphne. No snorkeling offered. Gordon rocks required 20 dives.
 
 ## Ferries on Santa Cruz
-* You can purchase ferry tickets at several locations in Puerto Ayora – e.g. Cab Martus – near the main pier. The price was $30 for a 2hr ferry to Isabela (one way). The ferries to Isabela departed at 7:00AM and 2:00PM then returns 6am and 3pm. You must book the day before. Some of the ferries were also fully booked a day or two out.
+You can purchase ferry tickets at several locations in Puerto Ayora – e.g. Cab Martus – near the main pier. The price was $30 for a 2hr ferry to Isabela (one way). The ferries to Isabela departed at 7:00AM and 2:00PM. Return ferries to Santa Cruz left at 6am and 3pm. Book ferries the day before departure to ensure you get a seat. We saw multiple tourists who tried to book the day of and were turned away. Some of the ferries were also fully booked a day or two out.
 
 ## Sample itinerary
 Below is a quick overview of our itinerary. Feel free to follow in our footsteps!
