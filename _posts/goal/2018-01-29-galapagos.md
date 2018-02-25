@@ -30,7 +30,7 @@ Based on our experiences, I prepared a guide to help make the trip logistics a l
 * Bring US dollars; it is Ecuador's official currency. The smaller the bills, the better. You will use cash for everything, and the ATMs can be hit or miss. Cards are rarely accepted and, if they are, usually incur a 7-8% fee. We burned $1500-1800 cash per person for a two week stay. This included everything – all dives, hotels, food, ferries, taxis, tips, souvenir t-shirts, etc.
 
 ## At the airport in mainland Ecuador
-* Buy a Galápagos Transit Control Card. When you arrive at the airport in Ecuador to fly to the Galápagos, you must purchase this card. There was a little booth next to the airline check-in counters selling them and inspecting bags. It cost $20 USD cash. Put it in a safe place and DO NOT lose it. An airport employee will ask to see it when you fly back from the Galápagos to the mainland.
+Buy a Galápagos Transit Control Card. When you arrive at the airport in Ecuador to fly to the Galápagos, you must purchase this card. There was a little booth next to the airline check-in counters selling them and inspecting bags. It cost $20 USD cash. Put it in a safe place and DO NOT lose it. An airport employee will ask to see it when you fly back from the Galápagos to the mainland.
 
 ## Upon arrival (Baltra Airport)
 * The Galápagos Islands have a $100 USD cash entry fee.
