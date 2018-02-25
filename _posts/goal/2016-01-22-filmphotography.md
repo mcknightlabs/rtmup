@@ -30,9 +30,9 @@ Later in the month, an email with a link to my first set of scans arrived from t
 	</figure>
 </div>
 
-I shared some edited version of the scans with an old friend from film school. "Why are you shooting 35?" was his first reaction. "Try out 120." 
+I shared some of the images with an old friend from film school. "Why are you shooting 35?" was his first reaction. "Try out 120." 
 
-A medium-format camera was a much bigger financial investment than the AE-1, but I desired to keep pushing my photography skills. Within a few months, I went on eBay and bid for a Mamiya 6.
+A medium-format camera was a much larger financial investment than the AE-1, but I knew it was something I would regret not trying. Within a few months, I went on eBay and bid for a Mamiya 6.
 
 Soon after purchasing it, the Mamiya stopped working. I quickly deduced that the shutter curtain and another part were getting jammed. Using diagrams of the camera I found online, I dismantled it, fixed the jam, and put all of the parts back together (a great way to learn about your gear).
 
