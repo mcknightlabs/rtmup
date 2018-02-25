@@ -31,8 +31,7 @@ Around 8:30 AM the next Saturday, I arrived at the Gallaudet University pool. Th
 
 Next up were my Open Water checkout dives. I decided to knock these out as soon as possible to reinforce my new skills.
 
-To save some money and finish both my Open Water and [Advanced](http://www.padi.com/courses/multilevel-diver) certifications on the same trip, I scheduled my checkout dives for Labor Day weekend.
-
+To save some money and finish both my Open Water and [Advanced](http://www.padi.com/courses/multilevel-diver) certifications on the same trip, I scheduled my checkout dives for Labor Day weekend at [Dutch Springs](http://www.dutchsprings.com/scuba/).
 The Pennsylvania spring water was as cold as you might expect in September. During my early morning deep dive, we passed through a few spots that were 54 degrees. Even wearing a 7mm wetsuit with gloves and a hood, I was pretty chilled.
 
 Perhaps the most challenging portion of my Advanced course was the navigation "adventure" dive. The visibility during my nav dive was about six feet. As my buddy and I left the submerged platform at 40 feet, we took turns using a compass. The buddy without the compass kept watch on the depth and signaled if we needed to ascend or descend a few feet. 
