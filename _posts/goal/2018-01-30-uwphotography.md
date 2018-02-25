@@ -113,13 +113,13 @@ Around day four, I discovered that the e-stabilization feature of the GH5 was ca
 
 Along with solving the above problems, I also learned a bit about underwater camera housing maintenance.
 
-1. *Always rinse after using in saltwater*
+*Always rinse after using in saltwater*
 
 Washing the housing with fresh water as soon as you return from a dive is key. Often, your dive boat will have a camera "dunk tank." If it does not – as I encountered in the Galápagos several times – you need to have your own fresh water handy. In Ecuador, I brought a 3L jug of water for this purpose.
 
 After returning to my hotel each day, I took the housing into the shower and thoroughly rinsed it again.
 
-2. *Check your o-rings*
+*Check your o-rings*
 
 The housing o-rings provide watertight seals around various housing components – e.g. the housing door. You have to make sure these are always properly greased, that they are not compromised by sand or other debris, and replace them when they crack. I used credit cards to remove them for inspection. Worked well.
 
