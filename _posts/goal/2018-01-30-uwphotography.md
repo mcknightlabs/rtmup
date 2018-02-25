@@ -28,7 +28,7 @@ Hoping to travel light, my friend opted to buy a [SeaLife DC2000](https://www.bh
 
 I initially thought about shooting with my Fuji XT-1, but a quick search revealed no available housings. 
 
-After a couple weeks of research, I settled on an Olympus E-M5 Mark II, bundled with a housing. When the unit arrived, I was suprised by how large – and not great for traveling – it was. I also realized I would need to buy a tray and handles before using it underwater. In my mind, any additional investments in this camera setup were not worth it, especially since the Mark II only shot 1080p HD – not 4K (essentially the standard in 2017).
+After a couple weeks of research, I settled on an Olympus E-M5 Mark II, bundled with a housing. When the unit arrived, I was surprised by how large – and not great for traveling – it was. I also realized I would need to buy a tray and handles before using it underwater. In my mind, any additional investments in this camera setup were not worth it, especially since the Mark II only shot 1080p HD – not 4K (essentially the standard in 2017).
 
 As I put the Mark II back in the mail to return to the seller, I thought about how little time was left before my trip – less than three weeks. I needed to make another decision ASAP.
 
@@ -111,7 +111,7 @@ The biggest video quality issue of the trip was completely out of my control. On
 
 Around day four, I discovered that the e-stabilization feature of the GH5 was causing severe distortion around the edges of some of my video shots. Turning this feature off solved the issue.
 
-**Housing maintenace**
+**Housing maintenance**
 
 Along with solving the above problems, I also learned a bit about underwater camera housing maintenance.
 
