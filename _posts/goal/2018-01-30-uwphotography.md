@@ -118,9 +118,9 @@ Along with solving the above problems, I also learned a bit about underwater cam
 
 1. *Always rinse after using in saltwater*
 
-Washing the housing with freshwater as soon as you return from a dive is key. Often, your dive boat will have a camera "dunk tank." If it does not – as I encountered in the Galápagos several times – you need to have your own fresh water handy. In Ecuador, I brought a 3L jug of water for this purpose.
+Washing the housing with fresh water as soon as you return from a dive is key. Often, your dive boat will have a camera "dunk tank." If it does not – as I encountered in the Galápagos several times – you need to have your own fresh water handy. In Ecuador, I brought a 3L jug of water for this purpose.
 
-After returning to my hotel, I would take the housing into the shower and thoroughly rinse it again.
+After returning to my hotel each day, I took the housing into the shower and thoroughly rinsed it again.
 
 2. *Check your o-rings*
 
