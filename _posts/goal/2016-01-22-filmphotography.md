@@ -18,6 +18,18 @@ After researching various entry-level cameras and watching a number of video tut
 
 Later in the month, an email with a link to my first set of scans arrived from the lab.
 
+<div class="medium-format">
+	<figure>
+		<img src="{{ site.github.url }}/media/img/photography/film/35/canonae1/000015350003.jpg">
+	</figure>
+	<figure>
+		<img src="{{ site.github.url }}/media/img/photography/film/35/canonae1/000015350004.jpg">
+	</figure>
+	<figure>
+		<img src="{{ site.github.url }}/media/img/photography/film/35/canonae1/000015350038.jpg">
+	</figure>
+</div>
+
 I shared some edited version of the scans with an old friend from film school. "Why are you shooting 35?" was his first reaction. "Try out 120." 
 
 A medium-format camera was a much bigger financial investment than the AE-1, but I desired to keep pushing my photography skills. Within a few months, I went on eBay and bid for a Mamiya 6.
