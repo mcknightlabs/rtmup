@@ -81,19 +81,19 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 2 – Thursday**
 
-* Flew to the Galápagos (Baltra)
-* Walked around and learned the area a bit
-* Started getting quotes on diving and/or snorkeling trips
+* Flew to the Galápagos (Baltra Island)
+* Walked around Puerto Ayora
+* Started obtaining quotes for dive/snorkel trips
 
 **Day 3 – Friday**
 
-* Snorkeled in the AM near the Charles Darwin Research Station, and saw a large Green Sea Turtle
+* Snorkeled in the AM near the Charles Darwin Research Station and saw a large Green Sea Turtle
 * Talked to more dive shops about prices
 * Snorkeled in the PM near the Charles Darwin Research Station
 
 **Day 4 – Saturday**
 
-* Snorkeled at German Beach, near Las Grietas. The water taxi from the pier on Santa Cruz cost $1. It was only a 5-10 minute walk from where we were dropped off. We saw a Green Sea Turtle, a variety of fish, and an eagle ray.
+* Snorkeled at German Beach near Las Grietas. The water taxi from the main pier cost $1. It was only a 5-10 minute walk from where we were dropped off. We saw a Green Sea Turtle, a variety of fish, and an eagle ray.
 
 <div class="small-frame">
 	<figure>
@@ -104,7 +104,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 5 – Sunday**
 
-* Snorkeled near the Charles Darwin Research Station solo. Saw a ray and some fish.
+* Snorkeled near the Charles Darwin Research Station. Saw a ray.
 * Enjoyed a $17 New Year's Eve lobster dinner
 
 <div class="small-frame">
@@ -118,7 +118,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 6 – Monday**
 
-* Snorkeled and did some freediving at Santa Fe Island with Eagle Ray tours for $120. The dive shop picked us up from our hotel. This trip had great viz and some close encounters with sea lions. Saw lots of other fish. There were a couple of Green Sea Turtles at the second snorkely spot on the tour, but the viz was much worse.
+* Snorkeled and did some freediving at Santa Fe Island with Eagle Ray tours for $120. The dive shop picked us up from our hotel. This trip had great viz and some close encounters with sea lions. Saw lots of other fish. There were a couple of Green Sea Turtles at the second snorkeling spot on the tour, but the viz was much worse.
 
 <div class="small-frame">
 	<figure>
@@ -129,8 +129,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 7 – Tuesday**
 
-* Dove at Santa Fe Island with Academy Diving
-* Met the dive shop employees near their shop around 7AM. We did not see much on either dive. There were a couple of sea lions far away. Terrible viz.
+* Dove at Santa Fe Island with Academy Diving. Met the dive shop employees near their shop around 7AM. We did not see much on either dive. There were a couple of sea lions far away. Terrible viz.
 * Moved to a new hotel (due to room availability issues)
 
 <div class="small-frame">
@@ -141,22 +140,19 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 8 – Wednesday**
 
-* Ate breakfast at the Galápagos Deli – cost $8 for 2 rolls, eggs, ham+cheese, juice, and a cafe con leche.
-* Lunch was a $10 chicken sandwich from Isla Grill
-* In the afternoon, we grabbed lattes at OMG coffee for $3.5.
-* We then paid a cab driver near the pier $40 (roundtrip) to go visit the tortoises at El Chapto. The manager at El Chapo gave us 30 minutes to wander around in exchange for $5. The driver waited for us. When we got back in the car, he offered to take us to a volcanic crater for $10 more, but we declined.
+* Paid a cab driver near the pier $40 to go visit the tortoises at El Chapto. The manager at El Chapo gave us 30 minutes to wander around for $5. The driver waited in the parking lot. When we got back in the car, the driver offered to take us to a volcanic crater for $10 more, but we declined.
 
 **Day 9 – Thursday**
 
-* Snorkeled and did some freediving at Daphne with Planeta Azul. We met their staff in the morning near the shop. On the trip, we encountered one white tip shark, a Green Sea Turtle, a sea lion, and a number of different fishes.
+* Snorkeled and did some freediving at Daphne with Planeta Azul. We met their staff in the morning near the shop. On the trip, we encountered one white tip shark, a Green Sea Turtle, and a sea lion.
 
 **Day 10 – Friday**
 
-* Took the Blue Fantasy ferry to Isabela for $30. It was a bumpy ride. Before we boarded, we had to obtain lanyards from people at the dock, in exchange for our ferry purchase receipt. 
-* Cost $10 cash to enter Isabela and $1 – each way – for the water taxi to the ferry.
-* Snorkeled at Isabela in the morning and afternoon. Saw a sea lion, Green Sea Turtle, and an eagle ray, but the viz was not great. Isabela was definitely the best place we visited for Marine Iguanas. 
-* Overall shitty food. Santa Cruz was much better. Could not find a decent restaurant
-* Taxi was $3 from our hotel to the ferry
+* Took the Blue Fantasy ferry to Isabela for $30. Bumpy ride. Before we boarded, we had to exchange our purchase receipt for lanyards from people at the dock.
+* Cost $10 cash to enter Isabela and $1 – each way – for the water taxi to the ferry
+* Snorkeled at Isabela in the morning and afternoon. Saw a sea lion, Green Sea Turtle, and an eagle ray, but the viz was not great. Isabela was definitely the best place we visited for Marine Iguanas.
+* Food was not great. Santa Cruz had much better options.
+* Truck taxi was $3 from our hotel to the ferry
 
 <div class="small-frame">
 	<figure>
@@ -172,7 +168,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 11 – Saturday**
 
-* Snorkeled at Isabela in the morning. Saw an octopus, Green Sea Turtle, and a baby sea lion nursing.
+* Went freediving and snorkeling in the morning. Saw an octopus, Green Sea Turtle, and a baby sea lion nursing.
 * Took the ferry back to Santa Cruz in the afternoon
 
 <div class="small-frame">
@@ -183,9 +179,9 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 12 – Sunday**
 
-* Snorkeled solo at Cristóbal. We walked 20 minutes from our hostel. Saw fish and a sea lion snorkeling at Cerro Tijeretas. Good viz. Other snorkelers saw lots of turtles. 
-* Near the ferry, there were lots of sea lions on the beach. 
-* Amazing bakery, especially when the pastries were fresh. Great prices.
+* Took the ferry to San Cristóbal
+* Went freediving and snorkeling at Cerro Tijeretas, a 20 minute walk from our hostel. Saw a sea lion. Good viz. Other snorkelers saw lots of turtles.
+* Found an amazing bakery near the hostel
 
 <div class="small-frame">
 	<figure>
@@ -195,8 +191,8 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 13 – Monday**
 
-* Snorkeled and went freediving at Kicker Rock off of Cristóbal with Galápagos Cruising Muran S.A. The boat was tiny and did not include a bathroom. The trip lasted from 10:30AM - 2:30PM. We saw a pod of dolphins on the way to Kicker Rock and one hammerhead upon arrival. We also saw a few white tip sharks, a sea lion, large schools of Black-striped Salemas, and two Green Sea Turtles. At a second snorkeling spot, we saw a few sea lions and a number of fish. This was probably the best snorkeling and freediving of the entire trip.
-* Took the “Andy” ferry back to Santa Cruz at 3pm.
+* Snorkeled and went freediving at Kicker Rock off of Cristóbal with Galápagos Cruising Muran S.A. Boat was tiny and did not include a bathroom. Trip lasted from 10:30AM - 2:30PM. We saw a pod of dolphins on the way to Kicker Rock and one hammerhead upon arrival. We also saw a few white tip sharks, a sea lion, large schools of Black-striped Salemas, and two Green Sea Turtles. At a second snorkeling spot, we saw a few sea lions and a number of fish. This was probably the best snorkeling and freediving of the entire trip.
+* Took the “Andy” ferry back to Santa Cruz at 3pm
 
 <div class="small-frame">
 	<figure>
@@ -206,7 +202,7 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 
 **Day 14 – Tuesday**
 
-* Freediving at Seymour with “Dive Center” tour. Saw several turtles, a few black-tip sharks, and a variety of other fishes.
+* Went freediving at Seymour with a company called Dive Center. Saw several turtles and a few black-tip sharks.
 
 <div class="small-frame">
 	<figure>
@@ -224,3 +220,4 @@ Below is a quick overview of our itinerary. Feel free to follow in our footsteps
 **Day 15 – Wednesday**
 
 * Flew back to Guayaquil
+* Flew back to Miami
