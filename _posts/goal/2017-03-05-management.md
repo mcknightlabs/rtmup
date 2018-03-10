@@ -22,7 +22,7 @@ Then I started to grow. The transactional perspective with which I began slowly 
 
 Somewhere along the line, I realized that effectively delegating tasks and knocking out lots of "wins" for the company did not make me a better manager.
 
-What made me feel like a better manager were hard-earned habits like being the last to speak in my team's meetings, working hard to align my team members' interests with their project assignments, and leaving my personal problems at the office door.
+What made me feel like a better manager were hard-earned habits like being the last to speak in my team's meetings, aligning my team members' interests with their project assignments, and leaving my personal problems at the office door.
 
 Adhering to approaches like these demands a significant amount of mental effort and attention. There are no shortcuts.
 
