@@ -33,7 +33,9 @@ This is number one on my list, because I find it the most difficult.
 
 <div class="medium-format">
 	<figure>
+		<a href="https://twitter.com/jeffweiner/status/845307012401508353">
 		<img src="{{ site.github.url }}/media/img/goals/2017-03-05-management/jweiner-tweet.jpg">
+		</a>
 	</figure>
 </div>
 
