@@ -80,7 +80,7 @@ After you have that criteria established, you can use a performance check-in to 
 
 At Industry Dive, our performance evals work like this:
 
-A direct report and a manager receive assessment sheets. The direct report self-assesses and emails the sheet to the manager. The manager fills out a similar assessment sheet about the direct report. The pair then meet at a scheduled time to go over both assessments. The assessments are mainly performance focused – where are you "rocking it" and where do you need to continue to grow.
+A direct report and a manager receive assessment sheets. The direct report self-assesses and emails the sheet to the manager. The manager fills out a similar assessment sheet about the direct report. The pair then meet at a scheduled time to go over both assessments. The reviews are mainly performance focused – where are you "rocking it" and where do you need to continue to grow.
 
 How the in-person portion of an eval is conducted is left up to each manager.
 
