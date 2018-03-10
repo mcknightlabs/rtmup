@@ -67,7 +67,7 @@ What follows are my personal hiring guidelines.
 <ul>
 	<li>When interviewing, I focus on answering two key questions: 1) Does she have a history of getting shit done? 2) Is she sharp? This is a tip I learned years ago from <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">a blog post</a> by Joel Spolsky, CEO of Stack Overflow. Five full-time hires later, I can confirm that it works quite well.</li>
 	<li>I hire the best people I can find who have not yet been the best – the all-stars no one yet knows. A similar approach is to hire people who are going to "<a href="https://bothsidesofthetable.com/whom-should-you-hire-at-a-startup-bc47cac70e49#.4ql9upylg">punch above their weight-class</a>." This is relatively easy to figure out if the answers to the two questions in the previous bullet are a resounding YES.</li>
-	<li>Other things I look for in a candidate are relevant passions, communication style, and cultural fit. Getting cultural fit right is <a href="http://avc.com/2017/03/cultural-differences">always critical</a>, but it is even more important if you are a startup.</li> Are you going to behave like a self-interested rebel at a time when we need a strong team player?
+	<li>Other things I look for in a candidate are relevant passions, communication style, and cultural fit. Getting cultural fit right is <a href="http://avc.com/2017/03/cultural-differences">always critical</a>, but it is even more important if you are a startup. Are you going to behave like a self-interested rebel at a time when we need a strong team player?</li> 
 </ul>
 
 ### Conduct quarterly performance evals
