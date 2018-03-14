@@ -60,14 +60,23 @@ I make it a point to never become close friends with anyone whom I have the abil
 
 ### Hire the right people
 
-My first priority as a manager has been to start with the best team members possible. I have worked hard to hire the people whom I thought were the best fit and pass over the "B" players.
+My top priority as a manager is to start with the best team members possible and pass over "B" players.
 
-What follows are my personal hiring guidelines.
+I achieve this through a rigorous candidate assessment process.
+
+After a design portfolio screening, my main goal is to answer two questions:
+
+1. Does she have a history of getting shit done?
+2. Is she sharp?
+
+I came across this strategy years ago in <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">a blog post</a> by Joel Spolsky, CEO of Stack Overflow. Five full-time hires later, I can confirm that it works quite well.
+
+Other key candidate assessment questions that factor into my hiring decision include:
 
 <ul>
-	<li>When interviewing, I focus on answering two key questions: 1) Does she have a history of getting shit done? 2) Is she sharp? This is a tip I learned years ago from <a href="https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/">a blog post</a> by Joel Spolsky, CEO of Stack Overflow. Five full-time hires later, I can confirm that it works quite well.</li>
-	<li>I hire the best people I can find who have not yet been the best – the all-stars no one yet knows. A similar approach is to hire people who are going to "<a href="https://bothsidesofthetable.com/whom-should-you-hire-at-a-startup-bc47cac70e49#.4ql9upylg">punch above their weight-class</a>." This is relatively easy to figure out if the answers to the two questions in the previous bullet are a resounding YES.</li>
-	<li>Other things I look for in a candidate are relevant passions, communication style, and cultural fit. Getting cultural fit right is <a href="http://avc.com/2017/03/cultural-differences">always critical</a>, but it is even more important if you are a startup. Are you going to behave like a self-interested rebel at a time when we need a strong team player?</li> 
+	<li><strong>Is she an all-star no one yet knows?</strong> I want to hire candidates who have not yet been the best but have the potential. A similar approach is to hire people who are going to "<a href="https://bothsidesofthetable.com/whom-should-you-hire-at-a-startup-bc47cac70e49#.4ql9upylg">punch above their weight-class</a>." This is relatively easy to figure out if the answers to my top two questions are a resounding YES.</li>
+	<li><strong>Does she possess highly-relevant interests and skills?</strong> Is this candidate likely to enjoy the work we are going to assign her? Project-interest alignment is key to keeping morale high.</li>
+	<li><strong>Is she a good cultural fit?</strong> Will this candidate, who describes herself as a "rebel" at her last job, be able to step up as a strong team player when necessary? Getting cultural fit right is <a href="http://avc.com/2017/03/cultural-differences">always critical</a>, but it is even more important if you are a startup like Industry Dive was when I first started hiring.</li>
 </ul>
 
 ### Conduct quarterly performance evals
