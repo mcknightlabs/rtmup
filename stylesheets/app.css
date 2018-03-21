@@ -621,6 +621,29 @@ header {
 
   .header {
     display: block; } }
+form input, form select, form textarea {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100%;
+  padding: .5rem;
+  margin: .875rem 0 1rem 0;
+  font-size: 1rem;
+  border: solid 1px #ccc; }
+form input[type="checkbox"] {
+  width: 30px; }
+form .upload {
+  margin: 0 0 1rem 0;
+  padding: 0; }
+form button {
+  font-size: 1rem;
+  background: #000;
+  color: #fff;
+  font-weight: 600;
+  padding: .875rem 1.5rem;
+  border: 0; }
+form button:hover {
+  cursor: pointer; }
+
 .article-section {
   padding: 0 0.9375rem;
   margin-bottom: 4rem; }
