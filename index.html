@@ -3,90 +3,34 @@ layout: default
 ---
 
 <section class="article-section">
-	<div class="header-wrapper">
-		<hr>
-		<h2>Goal Pursuit</h2>
-	</div>
-	<ul class="article-list">
-		{% for goal in site.categories.goal limit:2 %}
-		<li>
-			<h3><a href="{{ goal.url }}">{{ goal.title }}</a></h3>
-			<p class="description">{{ goal.description }}</p>
-			<p class="meta">Posted: {{ goal.date | date: '%B %d, %Y' }}
-			{% for tag in goal.tags %}
-			{% capture tag_name %}{{ tag }}{% endcapture %}
-			<span class="topics">•
-				<a href="/tags/{{ tag_name }}">
-				{{ tag_name }}
-				</a>
-			</span>
-			{% endfor %}
-			</p>
-		</li>
-		{% endfor %}
-	</ul>
-	<a href="{{ site.github.url }}/goals.html" class="view-all">View all</a>
-</section>
+<h1>Ryan McKnight</h1>
 
-<section class="article-section">
-	<div class="header-wrapper">
-		<hr>
-		<h2>Tech &amp; Design</h2>
-	</div>
-	<ul class="article-list">
-		{% for tech in site.categories.tech limit:2 %}
-		<li>
-			<h3>
-			{% if tech.external_url %}
-				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
-			{% else %}
-				<a href="{{ tech.url }}">{{ tech.title }}</a>
-			{% endif %}
-			</h3>
-			<p class="description">{{ tech.description }}</p>
-			<p class="meta">Posted: {{ tech.date | date: '%B %d, %Y' }}
-			{% for tag in tech.tags %}
-			{% capture tag_name %}{{ tag }}{% endcapture %}
-			<span class="topics">•
-				<a href="/tags/{{ tag_name }}">
-				{{ tag_name }}
-				</a>
-			</span>
-			{% endfor %}
-			</p>
-		</li>
-		{% endfor %}
-	</ul>
-	<a href="{{ site.github.url }}/tech-design.html" class="view-all">View all</a>
-</section>
+<p>I founded and lead the <a href="https://design.industrydive.com/">award-winning design team</a> at <a href="https://www.industrydive.com/">Industry Dive</a>, a rapidly growing business news company in DC. We were selected as a "Best Place to Work" by the Washington Post in 2017 and by the Washington Business Journal in 2015, 2016 and 2017.</p>
 
-<section class="article-section">
-	<div class="header-wrapper">
-		<hr>
-		<h2>Photos and video</h2>
-	</div>
-	<ul class="article-list">
-		{% for photos in site.categories.photos limit:5 %}
-		<li>
-		 	<h3>
-		 		{% if photos.external_url %}
-		 			<a href="{{ photos.external_url }}">{{ photos.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
-				{% else %}
-				<a href="{{ photos.url }}">{{ photos.title }}</a>
-				{% endif %}
-			</h3>
-			<p class="description">{{ photos.description }}</p>
-			<p class="meta">
-			{% for tag in photos.tags %}
-			{% capture tag_name %}{{ tag }}{% endcapture %}
-			<span class="topics">•
-				<a href="/tags/{{ tag_name }}">
-				{{ tag_name }}
-				</a>
-			</span>
-			{% endfor %}
-			</p>
-		</li>
-		{% endfor %}
-	</ul>
+<h3>Startups</h3>
+
+<p>I recently founded <a href="https://www.scarceart.com/">Scarce Art</a> and <a href="https://nextdesignjob.com/">Next Design Job</a>.</p>
+
+<h3>Writings</h3>
+
+<p>A lot of my work involves effectively scaling teams and processes. Read about my startup and management experiences <a href="{{ site.github.url }}/tech-design.html">here</a>.</p>
+
+<p>Self-mastery is what drives me. Read about my pursuit of life goals <a href="{{ site.github.url }}/goals.html">here</a>.</p>
+
+<h3>Photography</h3>
+
+<p>Love fine art? You can purchase limited edition prints of my film photos.</p>
+
+<h3>Why RTMUP?</h3>
+
+<p>"RTM" are my initials. "UP" is my chosen perspective. Stoic philosophy teaches us that we have control over how we perceive and respond to what happens to us but not much else.</p>
+
+<blockquote>"In a rapidly ascending balloon were two men. One watched the earth getting farther and farther away. One watched the stars getting nearer and nearer."
+<citation>- A Book Without A Title, George Jean Nathan, 1919</citation>
+</blockquote>
+
+<h3>Get in touch</h3>
+<p>Direct message me on <a href="https://www.twitter.com/rtmup">Twitter</a> or <a href="https://www.instagram.com/rtmup">Instagram</a>.</p>
+
+
 </section>
