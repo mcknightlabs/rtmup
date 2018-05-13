@@ -11,6 +11,7 @@ body {
 	grid-gap: 1rem;
 	.product {
 		grid-column: span 12;
+		margin-bottom: 2.5rem;
 	}
 }
 h1 {
@@ -183,7 +184,6 @@ blockquote {
 		grid-gap: 2rem;
 		.product {
 			grid-column: span 4;
-			margin-bottom: 2.5rem;
 		}
 	}
 	h1 {
