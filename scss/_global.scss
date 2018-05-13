@@ -4,6 +4,15 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	overflow-y: scroll;
 }
+.store {
+	margin-top: 2.5rem;
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-gap: 1rem;
+	.product {
+		grid-column: span 12;
+	}
+}
 h1 {
 	margin: .5rem 0 2rem 0;
 }
@@ -170,6 +179,13 @@ blockquote {
 }
 // medium screen size up
 @media (min-width: 600px ) {
+	.store {
+		grid-gap: 2rem;
+		.product {
+			grid-column: span 4;
+			margin-bottom: 2.5rem;
+		}
+	}
 	h1 {
 		margin: .5rem 0 4rem 0;
 	}
