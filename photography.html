@@ -13,93 +13,149 @@ layout: default
     <li>Set in custom black gallery frame with white mat by <a href="framebridge.com">Framebridge</a></li>
     <li>Total size framed: 23.25 x 23.25”</li>
 </ul>
-
-<section class="store">
-<div id='product-component-1526230860293' class="product"></div>
-    
-<div id='product-component-1526230083021' class="product"></div>
-</section>
 </section>
 
-   <script type="text/javascript">
-    /*<![CDATA[*/
-      (function () {
-        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-        if (window.ShopifyBuy) {
-          if (window.ShopifyBuy.UI) {
-            ShopifyBuyInit();
-          } else {
-            loadScript();
-          }
-        } else {
-          loadScript();
+<section class="shopify-collection">
+<div id='collection-component-3049f8fb2ad'></div>
+</section>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'ryan-mcknight-photography.myshopify.com',
+      apiKey: '94361b73f91ad0cc43343f0716e52216',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('collection', {
+        id: 34520629366,
+        node: document.getElementById('collection-component-3049f8fb2ad'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "variantId": "all",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
         }
-
-      function loadScript() {
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = scriptURL;
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-        script.onload = ShopifyBuyInit;
-      }
-
-      function ShopifyBuyInit() {
-        var client = ShopifyBuy.buildClient({
-          domain: 'ryan-mcknight-photography.myshopify.com',
-          apiKey: '94361b73f91ad0cc43343f0716e52216',
-          appId: '6',
-        });
-
-        ShopifyBuy.UI.onReady(client).then(function (ui) {
-          ui.createComponent('product', {
-            id: [1313796259958],
-            node: document.getElementById('product-component-1526230860293'),
-            moneyFormat: '${{amount}}',
-            options: {"product":{"variantId":"all","contents":{"imgWithCarousel":false,"variantTitle":false,"description":false,"buttonWithQuantity":false,"quantity":false},"styles":{"product":{"@media (min-width: 601px)":{"max-width":"calc(25% - 20px)","margin-left":"20px","margin-bottom":"50px"}}}},"cart":{"contents":{"button":true},"styles":{"footer":{"background-color":"#ffffff"}}},"modalProduct":{"contents":{"img":false,"imgWithCarousel":true,"variantTitle":false,"buttonWithQuantity":true,"button":false,"quantity":false},"styles":{"product":{"@media (min-width: 601px)":{"max-width":"100%","margin-left":"0px","margin-bottom":"0px"}}}},"productSet":{"styles":{"products":{"@media (min-width: 601px)":{"margin-left":"-20px"}}}}},
-          });
-        });
-      }
-    })();
-    /*]]>*/
-    </script>
-     <script type="text/javascript">
-    /*<![CDATA[*/
-      (function () {
-        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-        if (window.ShopifyBuy) {
-          if (window.ShopifyBuy.UI) {
-            ShopifyBuyInit();
-          } else {
-            loadScript();
-          }
-        } else {
-          loadScript();
+      },
+      "button": {
+        "background-color": "#3300ff",
+        ":hover": {
+          "background-color": "#5700ff"
+        },
+        ":focus": {
+          "background-color": "#5700ff"
         }
-
-      function loadScript() {
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = scriptURL;
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-        script.onload = ShopifyBuyInit;
       }
-
-      function ShopifyBuyInit() {
-        var client = ShopifyBuy.buildClient({
-          domain: 'ryan-mcknight-photography.myshopify.com',
-          apiKey: '94361b73f91ad0cc43343f0716e52216',
-          appId: '6',
-        });
-
-        ShopifyBuy.UI.onReady(client).then(function (ui) {
-          ui.createComponent('product', {
-            id: [1313816117366],
-            node: document.getElementById('product-component-1526230083021'),
-            moneyFormat: '${{amount}}',
-            options: {"product":{"variantId":"all","contents":{"imgWithCarousel":false,"variantTitle":false,"description":false,"buttonWithQuantity":false,"quantity":false},"styles":{"product":{"@media (min-width: 601px)":{"max-width":"calc(25% - 20px)","margin-left":"20px","margin-bottom":"50px"}}}},"cart":{"contents":{"button":true},"styles":{"footer":{"background-color":"#ffffff"}}},"modalProduct":{"contents":{"img":false,"imgWithCarousel":true,"variantTitle":false,"buttonWithQuantity":true,"button":false,"quantity":false},"styles":{"product":{"@media (min-width: 601px)":{"max-width":"100%","margin-left":"0px","margin-bottom":"0px"}}}},"productSet":{"styles":{"products":{"@media (min-width: 601px)":{"margin-left":"-20px"}}}}},
-          });
-        });
+    }
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#3300ff",
+        ":hover": {
+          "background-color": "#5700ff"
+        },
+        ":focus": {
+          "background-color": "#5700ff"
+        }
+      },
+      "footer": {
+        "background-color": "#ffffff"
       }
-    })();
-    /*]]>*/
-    </script>
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#3300ff",
+        ":hover": {
+          "background-color": "#5700ff"
+        },
+        ":focus": {
+          "background-color": "#5700ff"
+        }
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#3300ff",
+        ":hover": {
+          "background-color": "#5700ff"
+        },
+        ":focus": {
+          "background-color": "#5700ff"
+        }
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>

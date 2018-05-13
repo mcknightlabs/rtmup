@@ -14,6 +14,12 @@ body {
 		margin-bottom: 2.5rem;
 	}
 }
+.shopify-collection {
+	padding: .5rem;
+}
+.shopify-buy__product {
+	margin-bottom: 2rem;
+}
 h1 {
 	margin: .5rem 0 2rem 0;
 }
@@ -185,6 +191,9 @@ blockquote {
 		.product {
 			grid-column: span 4;
 		}
+	}
+	.shopify-collection {
+		margin: 2rem;
 	}
 	h1 {
 		margin: .5rem 0 4rem 0;
