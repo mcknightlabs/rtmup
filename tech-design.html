@@ -3,14 +3,12 @@ layout: default
 ---
 
 <section class="article-section">
-	<div class="header-wrapper">
-		<hr>
-		<h2>Tech &amp; Design</h2>
-	</div>
+	<h1>Startup journal</h1>
+	<p class="page-description">This is where I chronicle my experiences working in design, product strategy and business.</p>
 	<ul class="article-list">
 		{% for tech in site.categories.tech %}
 		<li>
-			<h3>
+			<h2>
 			{% if tech.external_url %}
 				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
 			{% else %}

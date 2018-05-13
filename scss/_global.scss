@@ -20,8 +20,11 @@ body {
 .shopify-buy__product {
 	margin-bottom: 2rem;
 }
+.home h1 {
+	margin-bottom: 3rem;
+}
 h1 {
-	margin: .5rem 0 2rem 0;
+	margin: .5rem 0 1rem 0;
 }
 h3 {
 	margin: 2rem 0 .875rem 0;
@@ -36,6 +39,9 @@ th, td {
 h1, h2, h3, h4, h5 {
 	color: #191b22;
 	font-weight: 600;
+}
+h2 {
+	font-size: 1.25rem;
 }
 table {
 	font-size: .875rem;
@@ -194,9 +200,6 @@ blockquote {
 	}
 	.shopify-collection {
 		margin: 2rem;
-	}
-	h1 {
-		margin: .5rem 0 4rem 0;
 	}
 	p, li {
 		font-size: 1.25rem;

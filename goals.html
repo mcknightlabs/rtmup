@@ -3,15 +3,12 @@ layout: default
 ---
 
 <section class="article-section">
-	<div class="header-wrapper">
-		<hr>
-		<h2>Goal Pursuit</h2>
-	</div>
+	<h1>Goal Pursuit</h1>
 	<p class="page-description">We become the things we do. This is the perspective by which I live. I constantly assess what type of person I want to become and use that knowledge to guide my actions. This page chronicles my use of this strategy.</p>
 	<ul class="article-list">
 		{% for goal in site.categories.goal %}
 		<li>
-			<h3><a href="{{ goal.url }}">{{ goal.title }}</a></h3>
+			<h2><a href="{{ goal.url }}">{{ goal.title }}</a></h2>
 			<p class="description">{{ goal.description }}</p>
 			<p class="meta">Posted: {{ goal.date | date: '%B %d, %Y' }} 
 			{% for tag in goal.tags %}
