@@ -365,7 +365,7 @@ body {
   overflow-y: scroll; }
 
 h1 {
-  margin: .5 0 1.5rem 0; }
+  margin: .5rem 0 2rem 0; }
 
 h3 {
   margin: 2rem 0 .875rem 0; }
@@ -512,6 +512,9 @@ blockquote p, blockquote citation, blockquote citation a, blockquote li {
   letter-spacing: 1px; }
 
 @media (min-width: 600px) {
+  h1 {
+    margin: .5rem 0 4rem 0; }
+
   p, li {
     font-size: 1.25rem; }
 
