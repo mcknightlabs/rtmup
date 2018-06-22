@@ -2,7 +2,7 @@
 layout: article
 title: Land a job at a startup company
 description: Without any connections, I turned myself into a startup employee in 2013.
-category: goal
+category: tech
 tags:
 og_title: Land a job at a startup company
 og_description: Without any connections, I turned myself into a startup employee in 2013.

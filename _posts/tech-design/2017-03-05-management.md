@@ -2,7 +2,7 @@
 layout: article
 title: Become a better manager
 description: This post captures my evolution as a manager from Nov. 2014 – March 2017.
-category: goal
+category: tech
 topics: management
 og_title: Become a better manager
 og_description: This post captures my evolution as a manager from Nov. 2014 – March 2017.
