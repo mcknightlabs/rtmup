@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Land a job at a startup company
+title: Becoming employee number five
 description: Without any connections, I turned myself into a startup employee in 2013.
 category: tech
 tags:
