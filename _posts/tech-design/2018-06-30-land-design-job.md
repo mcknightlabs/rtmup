@@ -1,7 +1,7 @@
 ---
 layout: article 
 title: How to land a great design job
-description: Five steps to help you stand out in the design job application process.
+description: 5 ways to gain a competitive advantage during the hiring process
 date: 2018-06-30
 categories: tech
 tags: 
@@ -11,7 +11,7 @@ tags:
 
 Over the past few years, I have reviewed several thousand graphic designer and product designer job applications. I have interviewed dozens of candidates and hired ten. 
 
-All of the designers who landed an interview and were hired took specific actions that made them stand out from their peers. This post details five steps you can take to gain a similar competitive advantage.
+All of the designers who landed an interview and were hired took specific actions that made them stand out from their peers. This post details five ways you can gain a similar competitive advantage.
 
 ### Step I: Optimize your portfolio.
 
