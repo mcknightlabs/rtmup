@@ -1,7 +1,7 @@
 ---
 layout: article 
 title: How to land a great design job
-description: Five steps to help you standout in the design job application process.
+description: Five steps to help you stand out in the design job application process.
 date: 2018-06-30
 categories: tech
 tags: 
