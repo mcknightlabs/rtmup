@@ -30,7 +30,7 @@ The best portfolios I have come across usually have the following qualities:
 Check out the website of Industry Dive Design team alum [Nan Copeland](http://www.nancopeland.com/) to see a product designer’s portfolio that meets these criteria.
 
 <p class="centered">
-    <img src="{{ site.url }}/assets/post_img/2018-06-08-land-design-job/nan-portfolio.gif" alt="Nan portfolio" style="border: 1px solid #eee;"/>
+    <img src="{{ site.github.url }}media/img/goals/2018-06-30-land=design-job/nan-portfolio.gif" alt="Nan portfolio" style="border: 1px solid #eee;"/>
     <span class="caption">A preview of <a href="http://www.nancopeland.com/" target="_blank">Nan Copeland's</a> portfolio.</span>
 </p>
 
