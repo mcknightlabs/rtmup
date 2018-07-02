@@ -4,7 +4,7 @@ title: Becoming employee number five
 description: Without any connections, I turned myself into a startup employee in 2013.
 category: tech
 tags:
-og_title: Land a job at a startup company
+og_title: Becoming employee number five
 og_description: Without any connections, I turned myself into a startup employee in 2013.
 og_image: /media/img/goals/2018-02-05-startupjob/watch-2.jpg
 og_type: website
