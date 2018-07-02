@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section class="article-section">
+	<h1>Experiment journal</h1>
+	<p class="page-description">This is where I chronicle my tech and design experiments.</p>
+	<ul class="article-list">
+		{% for experiment in site.categories.experiment %}
+		<li>
+			<h2>
+			{% if experiment.external_url %}
+				<a href="{{ experiment.external_url }}">{{ experiment.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
+			{% else %}
+				<a href="{{ experiment.url }}">{{ experiment.title }}</a>
+			{% endif %}
+			</h3>
+			<p class="description">{{ experiment.description }}</p>
+			<p class="meta">Posted: {{ experiment.date | date: '%B %d, %Y' }}
+			{% if experiment.topics %}
+			<span class="topics">| {{ experiment.topics }}</span></p>
+			{% endif %}
+		</li>
+		{% endfor %}
+	</ul>
+	<a href="{{ site.github.url }}index.html" class="view-all">Back to home</a>
+</section>
+
+
