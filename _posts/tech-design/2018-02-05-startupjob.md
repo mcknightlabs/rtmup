@@ -61,7 +61,7 @@ On January 8th, 2013, I signed a six-month contract.
 
 I was in. 
 
-At the age of tweny-three, I had landed a job at a startup.
+At the age of twenty-three, I had landed a job at a startup.
 
 <div class="medium-frame">
 	<figure>
