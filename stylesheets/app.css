@@ -364,6 +364,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow-y: scroll; }
 
+.twitter-tweet {
+  margin: 0 auto; }
+
 .store {
   margin-top: 2.5rem;
   display: grid;
