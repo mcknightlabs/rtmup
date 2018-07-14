@@ -19,12 +19,12 @@ What does my process look like? It's a moving target. I'm constantly refining it
 <h3>Step 1: Define specific problems and goals</h3>
 This is how I begin most all design projects. Understanding the problems and goals enables you to craft a clear roadmap to success and figure out which tools and approaches are likely to prove most effective. Even at this early stage, I'll go ahead and set up a project timeline with tentative deadlines and schedule a few check-in meetings with stakeholders. It's important to keep momentum moving forward and constantly measure progress.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/goals.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/goals.jpg" class="img-border">
 
 <h3>Step 2: Gather relevant user data</h3>
 The user data that guides my design comes from a lot of different sources: heat maps, click maps, Google Analytics, video recordings of user sessions, user surveys, user interviews, etc. Which data sets I employ is largely dependent upon project goals.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/survey.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/survey.jpg" class="img-border">
 
 <h3>Step 3: Conduct competitive analysis</h3>
 Although I work for a B2B media pub, I always cast my net into the B2C pool, too. A lot of B2B design is just awful and not worth analyzing.
@@ -32,18 +32,18 @@ I often start off by looking for elements on other sites that are similar in fun
 
 I usually screenshot a lot when conducting a competitive analysis and save the images in a folder for later reference. Occasionally, I'll even compare particular sites and elements against a set list of criteria in a spreadsheet to search for commonalities. I want to know what our users – business executives – are experiencing on other sites.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/comp_analysis.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/comp_analysis.jpg" class="img-border">
 
 <h3>Step 4: Come up with a plan of attack.</h3>
 
 Often, this is a bulleted list that I save as an email message. It's for my personal reference. For larger projects, I might create a slide deck compiling all of the user testing data, feedback, competitive analysis, and a lit review of best practices. All of this data is mapped back to the specific project goals with "actionable insights" called out.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/slide_deck.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/slide_deck.jpg" class="img-border">
 
 <h3>Step 5: Sketch pen and paper mockups (for myself)</h3>
 I generally don't spend a lot of time sketching. I use this technique mostly for information architecture purposes – to figure out the hierarchy of content and quickly explore UI and UX elements. After I have a few basic notes, I jump into Keynote or Sublime.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/sketch-demographics.jpg">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/sketch-demographics.jpg">
 
 <h3>Step 6: Create high-fidelity mockups in Keynote or code</h3>
 I am not a fan of using Photoshop to create pixel-perfect mockups. It's a huge time suck and can drag down a project. That said, it's nice to have some sort of high-fidelity representation of the UI for team members and users to review.
@@ -66,7 +66,7 @@ After creating user-tested mockups, I lead review sessions with the project stak
 
 Also on larger projects, the "review/iterate" step is repeated multiple times. Design > review + user testing > iterate > review + user testing > etc.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/review.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/review.jpg" class="img-border">
 
 <h3>Step 8: Code the front-end</h3>
 Over the years, I've noticed that web design has some striking similarities to filmmaking. One that always jumps to mind is how the work of art changes at each step in the process. A film, for instance, is made once when written, remade when shot, then remade again when it's edited. Similarly, the digital products I help create are made once with pen and paper, remade in Keynote, then remade again in code after user testing. At each step, the art usually changes in fundamental ways.
@@ -74,21 +74,21 @@ On to the technical details... I check out a new branch on the Github repo and s
 At Industry Dive, this often means I'm working with a SASS install of Foundation. Front-end frameworks like Foundation and preprocessors like SASS are awesome. Such time savers. To make the build process even more efficient, I configure a JS task runner like Grunt. JS task runners takes care of repetitive tasks like generating responsive images, adding vendor prefixes, etc.
 Integrated with the static HTML/CSS/JS is the web framework – Django at Industry Dive. Using the Django docs, I template the feature or pages and prepare to hand everything off to the tech team.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/sublime.jpg">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/sublime.jpg">
 
 <h3>Step 9: Walk tech team through required server side issues</h3>
 After templating features or entire pages in Django, I walk the tech team through the changes. This way they can note the specific python views and models they will need to create and/or refactor. All of these mini-projects then become Github issues.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/django.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/django.jpg" class="img-border">
 
 <h3>Step 10: Browser test</h3>
 Oh how I hate thee, IE. In all seriousness, you need to support the browsers your users are using. For Industry Dive, that meant we supported IE7 until 2015. Now, we support back to IE8. "Support" means that we ensure the site is navigable and the content accessible.
 Thankfully there are some great pollyfills out there for things like media queries and REMs.
 To check out how a site looks and functions in IE, I usually use VirtualBox. Screenshots from an online browser tester won't suffice. You actually need to test how a real user would interact on your site. Does the dropdown menu open when you click it in IE8? A browser screenshot can't answer that.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/ie8_topic_page.jpg">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/ie8_topic_page.jpg">
 
 <h3>Step 11: Launch</h3>
 This is the stage at which I start making Github issues for progressive enhancements and new issues noted by users and team members.
 
-<img src="{{ site.github.url }}/media/img/tech-design/2016-02-09-design-process/corp_site.jpg" class="img-border">
+<img src="{{ site.url }}/media/img/tech-design/2016-02-09-design-process/corp_site.jpg" class="img-border">

@@ -12,7 +12,7 @@ og_type: website
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-02-05-startupjob/watch-2.jpg">
+		<img src="{{ site.url }}/media/img/goals/2018-02-05-startupjob/watch-2.jpg">
 		<figcaption>Gift from the Industry Dive founders for my five years of service to the company.</figcaption>
 	</figure>
 </div>
@@ -65,7 +65,7 @@ At the age of twenty-three, I had landed a job at a startup.
 
 <div class="medium-frame">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2018-02-05-startupjob/id-dupont.jpg">
+		<img src="{{ site.url }}/media/img/goals/2018-02-05-startupjob/id-dupont.jpg">
 		<figcaption>Industry Dive's Dupont office in early 2013.</figcaption>
 	</figure>
 </div>

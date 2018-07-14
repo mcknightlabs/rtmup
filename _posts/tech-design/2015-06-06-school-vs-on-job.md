@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure>
-	<img src="{{ site.github.url }}/media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
+	<img src="{{ site.url }}/media/img/goals/2015-06-06-school-vs-on-job/cmu.jpg" class="img-border">
 	<figcaption>CMU's HCI grad program orientation 2013. I'm second from the right.</figcaption>
 </figure>
 

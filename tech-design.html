@@ -10,7 +10,7 @@ layout: default
 		<li>
 			<h2>
 			{% if tech.external_url %}
-				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.github.url }}/media/img/external-link-icon.png"></a>
+				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.url }}/media/img/external-link-icon.png"></a>
 			{% else %}
 				<a href="{{ tech.url }}">{{ tech.title }}</a>
 			{% endif %}
@@ -23,7 +23,7 @@ layout: default
 		</li>
 		{% endfor %}
 	</ul>
-	<a href="{{ site.github.url }}index.html" class="view-all">Back to home</a>
+	<a href="{{ site.url }}index.html" class="view-all">Back to home</a>
 </section>
 
 

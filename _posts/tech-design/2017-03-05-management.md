@@ -124,6 +124,6 @@ After the check-in, I immediately wrote up what I heard in an email and sent it 
 
 <div class="medium-format">
 	<figure>
-		<img src="{{ site.github.url }}/media/img/goals/2017-03-05-management/coffee-checkin.jpg">
+		<img src="{{ site.url }}/media/img/goals/2017-03-05-management/coffee-checkin.jpg">
 	</figure>
 </div>
