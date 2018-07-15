@@ -14,7 +14,7 @@ og_type: website
 	<ul class="article-list">
 		{% for experiment in site.categories.experiment %}
 		<li>
-			<h2>
+			<h3>
 			{% if experiment.external_url %}
 				<a href="{{ experiment.external_url }}">{{ experiment.title }}&nbsp;<img src="{{ site.url }}/media/img/external-link-icon.png"></a>
 			{% else %}

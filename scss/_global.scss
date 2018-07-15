@@ -26,8 +26,13 @@ body {
 h1 {
 	margin: .5rem 0 1rem 0;
 }
+h2 {
+	font-size: 1.25rem;
+	margin: 2.5rem 0 1.25rem 0;
+}
 h3 {
-	margin: 2rem 0 .875rem 0;
+	font-size: 1.125rem;
+	margin: 1.5rem 0 .875rem 0;
 }
 ul, ol {
 	margin-left: 1.5rem;
@@ -39,9 +44,6 @@ th, td {
 h1, h2, h3, h4, h5 {
 	color: #191b22;
 	font-weight: 600;
-}
-h2 {
-	font-size: 1.25rem;
 }
 table {
 	font-size: .875rem;
@@ -200,6 +202,13 @@ blockquote {
 }
 // medium screen size up
 @media (min-width: 600px ) {
+	h2 {
+		font-size: 1.5rem;
+		margin: 3rem 0 1.25rem 0;
+	}
+	h3 {
+		font-size: 1.5rem;
+	}
 	.store {
 		grid-gap: 2rem;
 		.product {

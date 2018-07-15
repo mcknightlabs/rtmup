@@ -14,7 +14,7 @@ og_type: website
 	<ul class="article-list">
 		{% for tech in site.categories.tech %}
 		<li>
-			<h2>
+			<h3>
 			{% if tech.external_url %}
 				<a href="{{ tech.external_url }}">{{ tech.title }}&nbsp;<img src="{{ site.url }}/media/img/external-link-icon.png"></a>
 			{% else %}

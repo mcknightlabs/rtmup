@@ -10,11 +10,40 @@ og_type: website
 <section class="article-section">
 	<h1>Portfolio</h1>
 
-	<p>I founded and lead the multidisciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at Industry Dive, a rapidly growing business news company in Washington, DC. Below are highlights of our work.</p>
+	<p>I founded and lead the multidisciplinary and <a href="https://www.industrydive.com/news/post/honoring-industry-dives-award-winning-design-leader/">award-winning</a> <a href="https://design.industrydive.com/">design team</a> at Industry Dive, a rapidly growing business news company in Washington, DC.</p>
 
-	<p>I believe the most important part of my job is shepherding the best ideas of my employees to fruition.</p>
+	<p>I believe the most important part of my job is shepherding the best ideas of my employees to fruition. I also work hard to align the personal interests and skills of my team members with core business needs to push the needle forward.</p>
 
-	<h2>Product Design – UI, UX and front-end development</h2>
+	<h2>Product design and management</h2> 
+	<p>I established and oversee all <a href="https://design.industrydive.com/ux/2018/01/04/cms-audit-user-flows.html">UX design</a>, <a href="https://design.industrydive.com/product/2017/12/20/library-page.html">UI design</a>, and <a href="https://design.industrydive.com/product/2018/03/29/flex-menu.html">front-end development work</a> at Industry Dive. I also established the company's quarterly approach to digital product goals and lead bi-weekly product strategy meetings with the founders.</p>
+	<p>Check out a few example projects below.</p>
+	
+	<ul class="gallery cards">
+		{% for item in site.projects %}
+		<li>
+			{% if item.external_url %}
+			<a href="{{ item.external_url }}">
+			{% else %}
+			<a href="{{ item.url }}">
+			{% endif %}
+			<div class="card-image" style="background-image: url('{{ item.image }}');"></div>
+			<figcaption>
+				<h3>{{ item.title }}</h3>
+				<p class="description">{{ item.description }}</p>
+				<!--<p class="meta">Posted: {{ item.date | date: '%B %d, %Y' }}</p>-->
+			</figcaption>
+			</a>
+		</li>
+		{% endfor %}
+	</ul>
+<!--
+	<h2>Corporate branding</h2> 
+
+	<h2>Editorial design/h2> 
+	
+	<h2>Company leadership</h2> 
+	
+			
 	<div class="medium-frame tweet-feed">
 		<figure>
 			<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our <a href="https://twitter.com/divedesigners?ref_src=twsrc%5Etfw">@divedesigners</a> are in the planning phase of a CMS redesign. Very cool to watch the process! 💻💡 <a href="https://t.co/rfC6nIxvuo">pic.twitter.com/rfC6nIxvuo</a></p>&mdash; Industry Dive (@industrydive) <a href="https://twitter.com/industrydive/status/900445325219037185?ref_src=twsrc%5Etfw">August 23, 2017</a></blockquote>
@@ -43,7 +72,7 @@ og_type: website
 		</figure>
 	</div>
 
-	<h2>Editorial Design</h2>
+	<h2>Editorial design</h2>
 	<div class="medium-frame tweet-feed">
 		<figure>
 			<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shout out to <a href="https://twitter.com/Jordan_EBranch?ref_src=twsrc%5Etfw">@Jordan_EBranch</a> for designing this piece on women in the power sector. Also to <a href="https://twitter.com/elizam0075?ref_src=twsrc%5Etfw">@elizam0075</a> for the really fun illustrations! <a href="https://twitter.com/divedesigners?ref_src=twsrc%5Etfw">@divedesigners</a> <a href="https://t.co/AMWJX8TEST">https://t.co/AMWJX8TEST</a></p>&mdash; Natalie Forman (@nforman44) <a href="https://twitter.com/nforman44/status/985959023290798081?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
@@ -84,3 +113,4 @@ og_type: website
 </section>	
 
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	-->

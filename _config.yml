@@ -4,3 +4,6 @@ markdown: kramdown
 exclude: ["scss", "Gemfile","Gemfile.lock", "README.md","config.rb"]
 disqus_short_name: "Ryan McKnight"
 url: https://mcknightlabs.com
+collections:
+  projects:
+    output: true

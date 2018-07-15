@@ -8,7 +8,7 @@ layout: default
 	<ul class="article-list">
 		{% for goal in site.categories.goal %}
 		<li>
-			<h2><a href="{{ goal.url }}">{{ goal.title }}</a></h2>
+			<h3><a href="{{ goal.url }}">{{ goal.title }}</a></h3>
 			<p class="description">{{ goal.description }}</p>
 			<p class="meta">Posted: {{ goal.date | date: '%B %d, %Y' }} 
 			{% for tag in goal.tags %}
