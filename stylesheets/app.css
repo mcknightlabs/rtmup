@@ -364,12 +364,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow-y: scroll; }
 
-.tweet-feed figure {
-  margin: 0; }
-
-.twitter-tweet {
-  margin: 0; }
-
 .store {
   margin-top: 2.5rem;
   display: grid;
@@ -454,7 +448,7 @@ a:hover {
 
 figure {
   max-width: 100%;
-  margin: 0 auto 2.5rem auto !important; }
+  margin: 0 auto 2.5rem auto; }
 figure.graphic {
   max-width: 720px; }
 figure figcaption {
@@ -537,6 +531,12 @@ blockquote citation {
   font-size: .875rem; }
 blockquote p, blockquote citation, blockquote citation a, blockquote li {
   letter-spacing: 1px; }
+
+.tweet-feed figure {
+  margin: 0; }
+
+.twitter-tweet {
+  margin: 0; }
 
 @media (min-width: 600px) {
   .store {
